@@ -1,0 +1,399 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif !important;
+}
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden !important;
+}
+.mainapp {
+  background-color: #f7f5ff;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+a {
+  text-decoration: none;
+}
+
+ul li {
+  list-style-type: none;
+  color: black;
+  position: relative;
+}
+.nav__menu li a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+.nav__menu li {
+  padding: 2rem 0 !important;
+}
+.nav__menu li .nav_dropdown {
+  position: absolute;
+  width: 350px;
+  height: 250px;
+  top: 0.85rem;
+  display: none;
+  z-index: 1;
+  box-shadow: 3px 3px 10px #c5c5c5;
+  border-radius: 0.1rem 1rem 1rem 1rem;
+}
+.dropdown-holder {
+  position: relative;
+}
+.drop-txt-holder {
+  position: relative;
+  z-index: 100;
+  background-color: #ffffff;
+  width: 100%;
+  height: 100%;
+  border-radius: 0.1rem 1rem 1rem 1rem;
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  gap: 1rem !important;
+  padding: 1rem;
+}
+.drop-txt-holder::after {
+  content: "";
+  position: absolute;
+  background-color: #4b20d1;
+  top: 0;
+  width: 50%;
+  height: 4px;
+  right: 80px;
+}
+.drop-txt {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1rem;
+}
+.drop-img {
+  width: 50px;
+}
+.ham-drop .drop-img{
+  width: 30px;
+}
+.drop-links h3 {
+  color: #000;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+.drop-links p {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+.drop-txt-holder a {
+  justify-content: flex-start !important;
+}
+.hiddennavs ul li span {
+}
+.hiddennavs ul li .dropdown-holder {
+  display: none;
+}
+.nav__menu li:hover .nav_dropdown {
+  display: block;
+}
+.nav__menu li:focus .nav_dropdown {
+  display: block;
+}
+.nav_dropdown::before {
+  content: "";
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  background-color: #ffffff;
+  transform: rotate(40deg);
+  top: -5px;
+  left: 5px;
+  z-index: -9;
+  box-shadow: 2px 2px 10px #c5c5c5;
+}
+.nav__menu li a span {
+  font-size: 0.9rem;
+  font-weight: 500;
+  transform: rotate(90deg) scaleY(2);
+  display: inline-block;
+}
+.title {
+  color: #000000;
+  font-weight: 700;
+  font-family: "Montserrat";
+}
+.hamburger {
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+.app {
+  width: 90%;
+  margin: auto;
+}
+.apparea {
+  width: 90%;
+  margin: auto;
+}
+/* header area starting */
+.nav__menu {
+  flex: 2;
+}
+.nav__menu a {
+  font-size: 0.9rem;
+  font-weight: 600;
+  font-family: "Montserrat";
+}
+
+.nav__img {
+  width: 14.5rem;
+  height: 2.4rem;
+}
+.nav__login--btn {
+  padding: 0.5rem 1.5rem;
+  border-radius: 3px;
+  background-color: #ff3269;
+  font-size: 0.8rem;
+  color: white;
+  font-weight: 600;
+}
+.header {
+  width: 100%;
+}
+.roof__btn {
+  border-radius: 0.3rem;
+  border: none;
+  font-size: 0.9rem;
+  font-weight: 700;
+  font-family: "Montserrat";
+  padding: 0.3rem 1.5rem;
+}
+.roof__btn--black {
+  color: #ffffff;
+  background-color: #040405;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.roof__btn--white {
+  border: 2px solid #4b20d1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.roof__title {
+  color: #4b20d1;
+}
+
+.countdown__circle {
+  width: 33px;
+  height: 33px;
+  border-radius: 100%;
+  border: 2px solid #4b20d1;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+.countdown__seconds {
+  font-size: 0.8rem;
+}
+.roof-txt {
+  margin-left: 0rem;
+}
+
+/* footer */
+
+.footer_ul li {
+  margin: 0;
+  padding: 0;
+  margin: 0.8rem 0;
+}
+.footer_ul li a {
+  color: #a4aec0;
+}
+
+.footer_ul {
+  margin: 0;
+  padding: 0;
+}
+.footer__num {
+  font-weight: 600;
+}
+.hidden {
+  display: none ;
+}
+.hiddennavs {
+  position: fixed;
+  z-index: 30;
+  /* width: 100%;
+  height: 100%; */
+  width: 100%;
+  height: 0px !important ;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column !important;
+  background-color: white;
+  top: 0;
+  transition: height 1s linear;
+  display: flex;
+}
+#ham {
+  position: relative;
+}
+.hamburger-logo{
+  position: absolute;
+  top:0; 
+  left: 0;
+  margin-top: 2.2rem;
+  margin-left: 2rem;
+}
+.x {
+  display: none !important;
+}
+.navsexpand {
+  width: 100%;
+  height: 100vh !important;
+  transition: height 1s linear;
+  
+}
+.nav__menu--hidden {
+  position: relative;
+  z-index: 40;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center;
+  color: white;
+  transition: height 6s linear;
+}
+
+.hamspan {
+  font-size: 1rem;
+  font-weight: 500;
+  transform: rotate(90deg) scaleY(2);
+  display: inline-block;
+  width: fit-content;
+    position: absolute;
+top: 0;
+right: 0;
+margin-right: 2rem;
+color: #4b20d1;
+}
+.hamburger_dropdown-menu {
+ height: 20px;
+   display: flex;
+   width: 100%;
+}
+.ham-drop {
+  width: 100%;
+  background-color: #ffffff;
+  z-index: 100;
+  top: 0px;
+  bottom: 0;
+  margin-top: 1rem;
+height: 0;
+transition: all 1s linear;
+display: none;
+position: relative;
+padding:0 1rem 1rem;
+}
+.hamburger_dropdown-menu:hover .ham-drop {
+    height: fit-content;
+    display: block;
+    transition: all 1s linear;
+}
+.drop-txt{
+border-bottom: #dadce0 1.2px solid;
+padding-bottom: 1rem;
+}
+.ham-drop .drop-links h3 {
+  font-size: 0.8rem;
+}
+.ham-drop .drop-links p {
+  font-size: 0.7rem;
+}
+.hamburger__close {
+  position: absolute;
+  right: 43px;
+  top: 33.5px;
+}
+.footer__imgs {
+  width: 40px;
+}
+.ham__exp{
+  width: 100%;
+}
+.ham__exp li a{
+  font-weight: 600;
+}
+.ham__exp li {
+  width: 100%;
+  justify-content: space-between;
+  border-bottom: 1.2px solid #dadce0;
+}
+
+@media (max-width: 1500px) {
+  .roof-txt {
+    margin-left: 6rem;
+  }
+}
+@media (max-width: 1025px) {
+  .roof-txt {
+    margin-left: 1rem;
+  }
+
+  .nav__img {
+    width: 14.5rem;
+    height: 2.4rem;
+  }
+  .nav__login--btn {
+    padding: 0.3rem 1.5rem;
+    border-radius: 3px;
+    background-color: #ff3269;
+    font-size: 0.9rem;
+    color: white;
+    font-weight: 600;
+  }
+}
+
+@media (max-width: 1004px) {
+  .nav__img {
+    width: 10rem;
+    height: 1.8rem;
+  }
+  .nav__menu {
+    display: none !important ;
+  }
+  .ham__exp{
+width: 80%;
+  }
+}
+
+@media (max-width: 470px) {
+  .roof {
+    overflow: hidden;
+  }
+  .countdown__seconds {
+    font-size: 0.65rem;
+  }
+  .roof__img {
+    right: -30px;
+  }
+}
+
+@media (max-width: 350px) {
+  .roof__img {
+    right: -70px;
+    max-width: 500px !important;
+  }
+  .roof img {
+    width: 500px;
+  }
+}
+
+/*  */

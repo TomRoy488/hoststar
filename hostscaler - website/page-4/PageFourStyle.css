@@ -1,0 +1,246 @@
+.cloudList-holder {
+  display: flex;
+  gap: 1rem;
+  padding: 0.5rem;
+  box-shadow: 3px 3px 20px #c5c5c5;
+  margin-top: 5rem;
+}
+
+.cloudList_itemHead {
+  display: grid;
+  grid-template-rows: repeat(9, 1fr);
+  height: 500px;
+  flex-grow: 1;
+}
+
+.cloudList_itemHead span {
+  font-size: 0.7rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  border-bottom: 2px solid #e4eaef;
+}
+.cloudList_itemHead span:first-child,
+.cloudList_itemHead span:last-child {
+  border: none;
+}
+.cloudList_row-holder {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  flex-grow: 1;
+  gap: 1rem;
+}
+.cloudList-items {
+  grid-row: 1 / 2;
+  grid-column: 1 /2;
+  background-color: #fff;
+}
+.cloudList-items:first-child {
+  display: block;
+}
+/* .items__hidden {
+  opacity: 0;
+  transition: all 0.5s;
+} */
+.cloudList_row {
+  display: grid;
+  box-shadow: 3px 3px 10px #c5c5c5;
+  grid-template-rows: repeat(9, 1fr);
+  height: 500px;
+}
+/* rgba(197, 197, 197,0.2) */
+.cloudList_row span {
+  font-size: 0.75rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cloudList_row .priceTags_btn {
+  font-size: 0.63rem;
+}
+.row-inner {
+  font-size: 0.5rem !important;
+  margin-left: 0.5rem;
+  padding: 0.1rem 0.5rem;
+  background: #000;
+  border-radius: 1rem;
+  color: #fff;
+}
+
+.operationSystem-imgHolder {
+  width: 80px;
+  height: 80px;
+  background: #fff;
+  padding: 0.8rem;
+  border-radius: 0.9rem;
+}
+.operationSystem-box-holder {
+  width: fit-content;
+}
+.operationSystem-boxs {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+.centos-txt p {
+  font-size: 0.7rem;
+}
+.centos-tags ul li span {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  border-radius: 1rem;
+  margin-right: 0.5rem;
+}
+
+.centos-tags ul li {
+  margin-top: 1rem;
+}
+
+.centos-txt div {
+  font-weight: 600;
+}
+.centox-img {
+  width: 100%;
+  height: 100%;
+}
+.operationSystem-rightRings {
+  display: none;
+}
+.slidebtn {
+  display: block;
+  font-size: 3rem;
+  position: absolute;
+  top: 50px;
+
+  z-index: 30;
+}
+#navbtnleft {
+  right: 40px;
+  transform: rotate(180deg);
+}
+#navbtnright {
+  right: 150px;
+}
+.items__hidden {
+  opacity: 0;
+  transition: all 0.5s; 
+}
+.compareCloud_card-head {
+  width: 50px;
+}
+
+@media (min-width: 768px) {
+  .cloudList-holder {
+    display: flex;
+    gap: 2rem;
+    padding: 1rem 3rem;
+  }
+  .operationSystem-boxs {
+    flex-direction: row;
+  }
+  #navbtnright {
+    right: 290px !important;
+  }
+  
+}
+@media (min-width: 1020px) {
+  .items__hidden {
+    opacity: 1;
+    transition: all 0.5s; 
+  }
+  .slidebtn {
+    display: none;
+  }
+  .cloudList-holder {
+    padding: 1rem;
+  }
+
+  .cloudList_itemHead {
+    height: 600px;
+  }
+
+  .cloudList_row-holder {
+    grid-template-columns: repeat(6, 1fr);
+  }
+
+  .cloudList-items {
+    grid-row: auto;
+    grid-column: auto;
+    display: block;
+  }
+
+  .cloudList_row {
+    height: 600px;
+  }
+.cloudList_row .priceTags_btn {
+  font-size: 0.7rem;
+  padding: .5rem .6rem;
+}
+  .operationSystem {
+    overflow: hidden;
+  }
+  .operationSystem-rightRings {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: -200px;
+    bottom: -200px;
+  }
+  .ring1 {
+    width: 380px;
+    height: 380px;
+    border-radius: 50%;
+    border: 3rem solid #b1b7ff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .ring2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3rem solid #b1ffdf;
+  }
+}
+@media (min-width: 1281px) {
+  .cloudList-holder {
+    gap: 2rem;
+    padding: 2rem 3rem 2rem 2rem;
+  }
+
+  .cloudList_itemHead span {
+    font-size: 1rem;
+  }
+  .cloudList_row span {
+    font-size: 1rem;
+  }
+.cloudList_row .priceTags_btn {
+  font-size: 0.9rem;
+  padding: .5rem 1rem;
+}
+.cloudList_row-holder{
+  gap: 2rem;
+}
+  .row-inner {
+    font-size: 12px !important;
+    margin-left: 0.5rem;
+    padding: 0.1rem 0.2rem;
+    background: #000;
+    border-radius: 0.4rem;
+    color: #fff;
+  }
+
+  .operationSystem-rightRings {
+    right: -160px;
+    bottom: -160px;
+  }
+}

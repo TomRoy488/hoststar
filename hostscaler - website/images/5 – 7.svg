@@ -1,0 +1,746 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="8916" viewBox="0 0 1920 8916">
+  <defs>
+    <filter id="Rectangle_38" x="349" y="6736" width="1222" height="261" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_416" x="349" y="7009" width="1222" height="87" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_417" x="349" y="7108" width="1222" height="87" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_418" x="349" y="7207" width="1222" height="87" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_419" x="349" y="7306" width="1222" height="87" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_420" x="349" y="7405" width="1222" height="87" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_421" x="349" y="7504" width="1222" height="87" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_287" x="436" y="5544" width="343" height="397" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-8"/>
+      <feFlood flood-opacity="0.09"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_340" x="789" y="5544" width="343" height="397" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-9"/>
+      <feFlood flood-opacity="0.09"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_513" x="1142" y="5544" width="343" height="397" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-10"/>
+      <feFlood flood-opacity="0.09"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_514" x="436" y="5961" width="343" height="397" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-11"/>
+      <feFlood flood-opacity="0.09"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_515" x="789" y="5961" width="343" height="397" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-12"/>
+      <feFlood flood-opacity="0.09"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_516" x="1142" y="5961" width="343" height="397" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-13"/>
+      <feFlood flood-opacity="0.09"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1200 485">
+      <image width="1200" height="485" xlink:href="C:/Users/Anand/Downloads/1200px-.net_logo.svg.png"/>
+    </pattern>
+    <clipPath id="clip-path">
+      <path id="Path_1653" data-name="Path 1653" d="M5.993,4.131,0,9.721V36.185l7.288,6.8V28.964l12.552.047V42.982l7.291-5.5V10.54l-7.291,6.794v4.389L7.288,21.672V2.927Z" transform="translate(0 -2.927)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_18" data-name="Rectangle 18" width="333.768" height="53.939" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_440" data-name="Rectangle 440" width="387.517" height="386.483" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_219" x="1249" y="3536" width="301" height="70" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-14"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_225" x="353" y="4362" width="301" height="70" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-15"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-13" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 816 639">
+      <image width="816" height="639" xlink:href="5%20-%207-image3.png"/>
+    </pattern>
+    <clipPath id="clip-_5_7">
+      <rect width="1920" height="8916"/>
+    </clipPath>
+    <image id="image" width="18" height="14" xlink:href="5%20-%207-image2.png"/>
+    <image id="image-2" width="269" height="674" xlink:href="5%20-%207-image.png"/>
+  </defs>
+  <g id="_5_7" data-name="5 – 7" clip-path="url(#clip-_5_7)">
+    <rect width="1920" height="8916" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_38)">
+      <g id="Rectangle_38-2" data-name="Rectangle 38" transform="translate(358 6742)" fill="#fff" stroke="#e2e9ee" stroke-width="1">
+        <rect width="1204" height="243" rx="10" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1203" height="242" rx="9.5" fill="none"/>
+      </g>
+    </g>
+    <text id="How_To_Solve_Wordpress_Problem" data-name="How To Solve Wordpress Problem" transform="translate(390 6787)" fill="#0e0b41" font-size="25" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">How To Solve Wordpress Problem</tspan></text>
+    <text id="Lorem_Ipsum_is_simply_dummy_text_of_the_printing_industry._Lorem_Ipsum_has_been_the_industry_s_Unknow_Lorem_Ipsum_is_simply_dummy_text_of_the_printing_industry_Lorem_Ipsum_has_been_the_Lorem_Ipsum_is_simply_dummy." data-name="Lorem Ipsum is simply dummy text of the printing industry. Lorem Ipsum has been the 
+industry&apos;s Unknow Lorem Ipsum is simply dummy text of the printing industry 
+Lorem Ipsum has been the Lorem Ipsum is simply dummy." transform="translate(390 6855)" font-size="25" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Lorem Ipsum is simply dummy text of the printing industry. Lorem Ipsum has been the </tspan><tspan x="0" y="40">industry&apos;s Unknow Lorem Ipsum is simply dummy text of the printing industry </tspan><tspan x="0" y="80">Lorem Ipsum has been the Lorem Ipsum is simply dummy.</tspan></text>
+    <g id="left" transform="translate(1508.639 6782.653) rotate(-90)">
+      <path id="Path_7276" data-name="Path 7276" d="M10.024.172C9.545.411.277,9.672.1,10.078a2.021,2.021,0,0,0,0,1.275c.159.369,9.587,9.812,10.007,10.015a1.646,1.646,0,0,0,.674.145,1.522,1.522,0,0,0,1.377-2.174,50.573,50.573,0,0,0-4.29-4.478L3.726,10.716,7.835,6.6a49.2,49.2,0,0,0,4.254-4.435A1.514,1.514,0,0,0,10.024.172Z" transform="translate(0 0)" fill="#0c0a3b"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_416)">
+      <g id="Rectangle_416-2" data-name="Rectangle 416" transform="translate(358 7015)" fill="#fff" stroke="#e2e9ee" stroke-width="1">
+        <rect width="1204" height="69" rx="10" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1203" height="68" rx="9.5" fill="none"/>
+      </g>
+    </g>
+    <text id="How_To_Solve_Wordpress_Problem-2" data-name="How To Solve Wordpress Problem" transform="translate(390 7060)" fill="#0e0b41" font-size="25" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">How To Solve Wordpress Problem</tspan></text>
+    <g id="left-2" data-name="left" transform="translate(1508.639 7055.653) rotate(-90)">
+      <path id="Path_7276-2" data-name="Path 7276" d="M10.024.172C9.545.411.277,9.672.1,10.078a2.021,2.021,0,0,0,0,1.275c.159.369,9.587,9.812,10.007,10.015a1.646,1.646,0,0,0,.674.145,1.522,1.522,0,0,0,1.377-2.174,50.573,50.573,0,0,0-4.29-4.478L3.726,10.716,7.835,6.6a49.2,49.2,0,0,0,4.254-4.435A1.514,1.514,0,0,0,10.024.172Z" transform="translate(0 0)" fill="#0c0a3b"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_417)">
+      <g id="Rectangle_417-2" data-name="Rectangle 417" transform="translate(358 7114)" fill="#fff" stroke="#e2e9ee" stroke-width="1">
+        <rect width="1204" height="69" rx="10" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1203" height="68" rx="9.5" fill="none"/>
+      </g>
+    </g>
+    <text id="How_To_Solve_Wordpress_Problem-3" data-name="How To Solve Wordpress Problem" transform="translate(390 7159)" fill="#0e0b41" font-size="25" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">How To Solve Wordpress Problem</tspan></text>
+    <g id="left-3" data-name="left" transform="translate(1508.639 7154.653) rotate(-90)">
+      <path id="Path_7276-3" data-name="Path 7276" d="M10.024.172C9.545.411.277,9.672.1,10.078a2.021,2.021,0,0,0,0,1.275c.159.369,9.587,9.812,10.007,10.015a1.646,1.646,0,0,0,.674.145,1.522,1.522,0,0,0,1.377-2.174,50.573,50.573,0,0,0-4.29-4.478L3.726,10.716,7.835,6.6a49.2,49.2,0,0,0,4.254-4.435A1.514,1.514,0,0,0,10.024.172Z" transform="translate(0 0)" fill="#0c0a3b"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_418)">
+      <g id="Rectangle_418-2" data-name="Rectangle 418" transform="translate(358 7213)" fill="#fff" stroke="#e2e9ee" stroke-width="1">
+        <rect width="1204" height="69" rx="10" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1203" height="68" rx="9.5" fill="none"/>
+      </g>
+    </g>
+    <text id="How_To_Solve_Wordpress_Problem-4" data-name="How To Solve Wordpress Problem" transform="translate(390 7258)" fill="#0e0b41" font-size="25" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">How To Solve Wordpress Problem</tspan></text>
+    <g id="left-4" data-name="left" transform="translate(1508.639 7253.653) rotate(-90)">
+      <path id="Path_7276-4" data-name="Path 7276" d="M10.024.172C9.545.411.277,9.672.1,10.078a2.021,2.021,0,0,0,0,1.275c.159.369,9.587,9.812,10.007,10.015a1.646,1.646,0,0,0,.674.145,1.522,1.522,0,0,0,1.377-2.174,50.573,50.573,0,0,0-4.29-4.478L3.726,10.716,7.835,6.6a49.2,49.2,0,0,0,4.254-4.435A1.514,1.514,0,0,0,10.024.172Z" transform="translate(0 0)" fill="#0c0a3b"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_419)">
+      <g id="Rectangle_419-2" data-name="Rectangle 419" transform="translate(358 7312)" fill="#fff" stroke="#e2e9ee" stroke-width="1">
+        <rect width="1204" height="69" rx="10" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1203" height="68" rx="9.5" fill="none"/>
+      </g>
+    </g>
+    <text id="How_To_Solve_Wordpress_Problem-5" data-name="How To Solve Wordpress Problem" transform="translate(390 7357)" fill="#0e0b41" font-size="25" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">How To Solve Wordpress Problem</tspan></text>
+    <g id="left-5" data-name="left" transform="translate(1508.639 7352.653) rotate(-90)">
+      <path id="Path_7276-5" data-name="Path 7276" d="M10.024.172C9.545.411.277,9.672.1,10.078a2.021,2.021,0,0,0,0,1.275c.159.369,9.587,9.812,10.007,10.015a1.646,1.646,0,0,0,.674.145,1.522,1.522,0,0,0,1.377-2.174,50.573,50.573,0,0,0-4.29-4.478L3.726,10.716,7.835,6.6a49.2,49.2,0,0,0,4.254-4.435A1.514,1.514,0,0,0,10.024.172Z" transform="translate(0 0)" fill="#0c0a3b"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_420)">
+      <g id="Rectangle_420-2" data-name="Rectangle 420" transform="translate(358 7411)" fill="#fff" stroke="#e2e9ee" stroke-width="1">
+        <rect width="1204" height="69" rx="10" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1203" height="68" rx="9.5" fill="none"/>
+      </g>
+    </g>
+    <text id="How_To_Solve_Wordpress_Problem-6" data-name="How To Solve Wordpress Problem" transform="translate(390 7456)" fill="#0e0b41" font-size="25" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">How To Solve Wordpress Problem</tspan></text>
+    <g id="left-6" data-name="left" transform="translate(1508.639 7451.653) rotate(-90)">
+      <path id="Path_7276-6" data-name="Path 7276" d="M10.024.172C9.545.411.277,9.672.1,10.078a2.021,2.021,0,0,0,0,1.275c.159.369,9.587,9.812,10.007,10.015a1.646,1.646,0,0,0,.674.145,1.522,1.522,0,0,0,1.377-2.174,50.573,50.573,0,0,0-4.29-4.478L3.726,10.716,7.835,6.6a49.2,49.2,0,0,0,4.254-4.435A1.514,1.514,0,0,0,10.024.172Z" transform="translate(0 0)" fill="#0c0a3b"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_421)">
+      <g id="Rectangle_421-2" data-name="Rectangle 421" transform="translate(358 7510)" fill="#fff" stroke="#e2e9ee" stroke-width="1">
+        <rect width="1204" height="69" rx="10" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1203" height="68" rx="9.5" fill="none"/>
+      </g>
+    </g>
+    <text id="How_To_Solve_Wordpress_Problem-7" data-name="How To Solve Wordpress Problem" transform="translate(390 7555)" fill="#0e0b41" font-size="25" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">How To Solve Wordpress Problem</tspan></text>
+    <g id="left-7" data-name="left" transform="translate(1508.639 7550.653) rotate(-90)">
+      <path id="Path_7276-7" data-name="Path 7276" d="M10.024.172C9.545.411.277,9.672.1,10.078a2.021,2.021,0,0,0,0,1.275c.159.369,9.587,9.812,10.007,10.015a1.646,1.646,0,0,0,.674.145,1.522,1.522,0,0,0,1.377-2.174,50.573,50.573,0,0,0-4.29-4.478L3.726,10.716,7.835,6.6a49.2,49.2,0,0,0,4.254-4.435A1.514,1.514,0,0,0,10.024.172Z" transform="translate(0 0)" fill="#0c0a3b"/>
+    </g>
+    <text id="Frequently_Asked_Questions" data-name="Frequently Asked Questions" transform="translate(960 6549)" fill="#0e0b41" font-size="55" font-family="Montserrat" font-weight="600"><tspan x="-400.84" y="0">Frequently Asked Questions</tspan></text>
+    <text id="Build_your_social_media_following_Affiliates_can_market_to_Facebook_Twitter_YouTube_LinkedIn_and_Pinterest." data-name="Build your social media following! Affiliates can market to Facebook, 
+                           Twitter, YouTube, LinkedIn and Pinterest." transform="translate(525 6606)" fill="#a4aec0" font-size="25" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Build your social media following! Affiliates can market to Facebook, </tspan><tspan x="0" y="45" xml:space="preserve">                           Twitter, YouTube, LinkedIn and Pinterest.</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_287)">
+      <g id="Rectangle_287-2" data-name="Rectangle 287" transform="translate(451 5557)" fill="#fff" stroke="#e2e9ee" stroke-width="2">
+        <rect width="313" height="367" rx="10" stroke="none"/>
+        <rect x="1" y="1" width="311" height="365" rx="9" fill="none"/>
+      </g>
+    </g>
+    <text id="Programming" transform="translate(499 5691.98)" fill="#0e0b41" font-size="30" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">Programming</tspan></text>
+    <text id="You_only_need_to_identify_potential_customers_our_affiliate_team_will_assist_you_with_the_conversion_and_you_will_receive_your_process_and_you_will_receive_your_Get_your_Money_in_your_bank_completed." data-name="You only need to identify potential
+customers; our affiliate team will
+assist you with the conversion and 
+you will receive your process, and 
+you will receive your Get your 
+Money in your bank 
+completed." transform="translate(607.5 5730.554)" font-size="15.5" font-family="Montserrat" font-weight="600"><tspan x="-137.779" y="0">You only need to identify potential</tspan><tspan x="-130.533" y="25">customers; our affiliate team will</tspan><tspan x="-140.05" y="50">assist you with the conversion and </tspan><tspan x="-135.865" y="75">you will receive your process, and </tspan><tspan x="-119.877" y="100">you will receive your Get your </tspan><tspan x="-81.142" y="125">Money in your bank </tspan><tspan x="-45.159" y="150">completed.</tspan></text>
+    <path id="Path_7296" data-name="Path 7296" d="M6.594-511.624a8.5,8.5,0,0,0-3.969,2.3,8.219,8.219,0,0,0-2.3,4.033C0-504.069,0-503.445,0-470.97s0,33.1.32,34.315a8.219,8.219,0,0,0,2.3,4.033,8.219,8.219,0,0,0,4.033,2.3c1.216.32,1.841.32,34.316.32s33.1,0,34.316-.32a8.219,8.219,0,0,0,4.033-2.3,8.219,8.219,0,0,0,2.3-4.033c.32-1.216.32-1.841.32-34.315s0-33.1-.32-34.315a8.142,8.142,0,0,0-2.385-4.1,7.69,7.69,0,0,0-3.953-2.241c-1.216-.32-1.873-.32-34.38-.3C8.739-511.928,7.731-511.912,6.594-511.624Zm39.069,9.683A31.4,31.4,0,0,1,71.7-477a31.255,31.255,0,0,1-6.642,26.025,31.275,31.275,0,0,1-36.332,8.835,29.552,29.552,0,0,1-9.843-6.738,29.39,29.39,0,0,1-6.738-9.843A29.946,29.946,0,0,1,9.7-470.97a29.947,29.947,0,0,1,2.449-12.244,29.8,29.8,0,0,1,6.722-9.859A29.8,29.8,0,0,1,28.73-499.8,31.608,31.608,0,0,1,45.664-501.941Z" transform="translate(566.527 6088.95)" fill="#f2f3ff"/>
+    <path id="Path_7297" data-name="Path 7297" d="M98.837-439.537a30.416,30.416,0,0,0-6.018,1.36,29.377,29.377,0,0,0-18.71,18.694,24.721,24.721,0,0,0-1.408,9.235,24.4,24.4,0,0,0,.352,5.2A30.323,30.323,0,0,0,82.5-388.225a29.7,29.7,0,0,0,20.743,7.378A29.386,29.386,0,0,0,128.415-397.2a29.475,29.475,0,0,0,1.553-22.279,29.71,29.71,0,0,0-11.7-15.333,31.57,31.57,0,0,0-10.948-4.4A40.091,40.091,0,0,0,98.837-439.537Zm8.227,3.681a26.362,26.362,0,0,1,11.428,5.33,7.083,7.083,0,0,1,.992.912c0,.064-.352.16-.8.192a4.472,4.472,0,0,0-3.537,3.217,7.648,7.648,0,0,0-.112,1.824c.08,1.265.672,2.689,1.985,4.8a22.286,22.286,0,0,1,2.257,4.85,12.233,12.233,0,0,1,.272,3.281,12.782,12.782,0,0,1-.592,4.4c-.528,2.017-3.729,12.324-3.857,12.452-.032.032-.528-1.344-1.1-3.041-6.434-19.158-8.275-24.664-8.275-24.792,0-.08.416-.144.928-.16,1.409-.016,2.465-.224,2.7-.56a1.133,1.133,0,0,0-.112-1.424c-.3-.272-.528-.288-4.241-.112-2.145.1-4,.16-4.113.128-.112-.048-1.7-.112-3.505-.176-3.7-.112-3.825-.08-3.825.96,0,.768.448,1.008,2.129,1.136,1.072.08,1.44.176,1.553.368.08.16,1.008,2.657,2.081,5.586l1.937,5.33-2.833,8.5a83.845,83.845,0,0,1-2.945,8.275c-.144-.24-9.235-27.273-9.315-27.673-.032-.176.256-.256,1.473-.368a6.329,6.329,0,0,0,1.873-.352,1.025,1.025,0,0,0,.3-1.44c-.3-.464-.416-.48-5.3-.256-1.665.08-3.313.1-3.633.048l-.608-.112.848-1.12a26.762,26.762,0,0,1,9.635-7.923A28.645,28.645,0,0,1,99.4-436.24,38.627,38.627,0,0,1,107.064-435.856Zm18.614,14.517a29.342,29.342,0,0,1,2,6.21,32.192,32.192,0,0,1,.064,9.443,26.644,26.644,0,0,1-11.22,17.158c-.528.352-1.056.688-1.152.752-.208.112.576-2.193,5.314-15.829,4.386-12.612,4.305-12.292,4.322-16.277,0-1.488.016-2.689.048-2.689A11.493,11.493,0,0,1,125.678-421.339ZM84.4-403.83c3.377,9.251,6.1,16.854,6.05,16.9a3.1,3.1,0,0,1-1.008-.448A26.257,26.257,0,0,1,76.4-405.35a31.312,31.312,0,0,1,0-9.779c.4-2,1.521-5.522,1.777-5.522C78.222-420.651,81.039-413.081,84.4-403.83Zm22.168,7.026c2.161,5.938,3.953,10.9,3.985,11.028.048.256-1.216.656-3.553,1.152a32.19,32.19,0,0,1-7.843.32c-2.065-.256-4.514-.832-4.434-1.04.032-.1,1.777-5.2,3.889-11.332,2.1-6.13,3.873-11.108,3.921-11.044C102.6-407.655,104.407-402.741,106.568-396.8Z" transform="translate(505.465 6028.227)" fill="#4b20d1"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_340)">
+      <g id="Rectangle_340-2" data-name="Rectangle 340" transform="translate(804 5557)" fill="#fff" stroke="#e2e9ee" stroke-width="2">
+        <rect width="313" height="367" rx="10" stroke="none"/>
+        <rect x="1" y="1" width="311" height="365" rx="9" fill="none"/>
+      </g>
+    </g>
+    <text id="Programming-2" data-name="Programming" transform="translate(852 5691.98)" fill="#0e0b41" font-size="30" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">Programming</tspan></text>
+    <text id="You_only_need_to_identify_potential_customers_our_affiliate_team_will_assist_you_with_the_conversion_and_you_will_receive_your_process_and_you_will_receive_your_Get_your_Money_in_your_bank_completed.-2" data-name="You only need to identify potential
+customers; our affiliate team will
+assist you with the conversion and 
+you will receive your process, and 
+you will receive your Get your 
+Money in your bank 
+completed." transform="translate(960.5 5730.554)" font-size="15.5" font-family="Montserrat" font-weight="600"><tspan x="-137.779" y="0">You only need to identify potential</tspan><tspan x="-130.533" y="25">customers; our affiliate team will</tspan><tspan x="-140.05" y="50">assist you with the conversion and </tspan><tspan x="-135.865" y="75">you will receive your process, and </tspan><tspan x="-119.877" y="100">you will receive your Get your </tspan><tspan x="-81.142" y="125">Money in your bank </tspan><tspan x="-45.159" y="150">completed.</tspan></text>
+    <path id="Path_7298" data-name="Path 7298" d="M6.594-511.624a8.5,8.5,0,0,0-3.969,2.3,8.219,8.219,0,0,0-2.3,4.033C0-504.069,0-503.445,0-470.97s0,33.1.32,34.315a8.219,8.219,0,0,0,2.3,4.033,8.219,8.219,0,0,0,4.033,2.3c1.216.32,1.841.32,34.316.32s33.1,0,34.316-.32a8.219,8.219,0,0,0,4.033-2.3,8.219,8.219,0,0,0,2.3-4.033c.32-1.216.32-1.841.32-34.315s0-33.1-.32-34.315a8.142,8.142,0,0,0-2.385-4.1,7.69,7.69,0,0,0-3.953-2.241c-1.216-.32-1.873-.32-34.38-.3C8.739-511.928,7.731-511.912,6.594-511.624Zm39.069,9.683A31.4,31.4,0,0,1,71.7-477a31.255,31.255,0,0,1-6.642,26.025,31.275,31.275,0,0,1-36.332,8.835,29.552,29.552,0,0,1-9.843-6.738,29.39,29.39,0,0,1-6.738-9.843A29.946,29.946,0,0,1,9.7-470.97a29.947,29.947,0,0,1,2.449-12.244,29.8,29.8,0,0,1,6.722-9.859A29.8,29.8,0,0,1,28.73-499.8,31.608,31.608,0,0,1,45.664-501.941Z" transform="translate(919.527 6088.95)" fill="#f2f3ff"/>
+    <path id="Path_7299" data-name="Path 7299" d="M98.837-439.537a30.416,30.416,0,0,0-6.018,1.36,29.377,29.377,0,0,0-18.71,18.694,24.721,24.721,0,0,0-1.408,9.235,24.4,24.4,0,0,0,.352,5.2A30.323,30.323,0,0,0,82.5-388.225a29.7,29.7,0,0,0,20.743,7.378A29.386,29.386,0,0,0,128.415-397.2a29.475,29.475,0,0,0,1.553-22.279,29.71,29.71,0,0,0-11.7-15.333,31.57,31.57,0,0,0-10.948-4.4A40.091,40.091,0,0,0,98.837-439.537Zm8.227,3.681a26.362,26.362,0,0,1,11.428,5.33,7.083,7.083,0,0,1,.992.912c0,.064-.352.16-.8.192a4.472,4.472,0,0,0-3.537,3.217,7.648,7.648,0,0,0-.112,1.824c.08,1.265.672,2.689,1.985,4.8a22.286,22.286,0,0,1,2.257,4.85,12.233,12.233,0,0,1,.272,3.281,12.782,12.782,0,0,1-.592,4.4c-.528,2.017-3.729,12.324-3.857,12.452-.032.032-.528-1.344-1.1-3.041-6.434-19.158-8.275-24.664-8.275-24.792,0-.08.416-.144.928-.16,1.409-.016,2.465-.224,2.7-.56a1.133,1.133,0,0,0-.112-1.424c-.3-.272-.528-.288-4.241-.112-2.145.1-4,.16-4.113.128-.112-.048-1.7-.112-3.505-.176-3.7-.112-3.825-.08-3.825.96,0,.768.448,1.008,2.129,1.136,1.072.08,1.44.176,1.553.368.08.16,1.008,2.657,2.081,5.586l1.937,5.33-2.833,8.5a83.845,83.845,0,0,1-2.945,8.275c-.144-.24-9.235-27.273-9.315-27.673-.032-.176.256-.256,1.473-.368a6.329,6.329,0,0,0,1.873-.352,1.025,1.025,0,0,0,.3-1.44c-.3-.464-.416-.48-5.3-.256-1.665.08-3.313.1-3.633.048l-.608-.112.848-1.12a26.762,26.762,0,0,1,9.635-7.923A28.645,28.645,0,0,1,99.4-436.24,38.627,38.627,0,0,1,107.064-435.856Zm18.614,14.517a29.342,29.342,0,0,1,2,6.21,32.192,32.192,0,0,1,.064,9.443,26.644,26.644,0,0,1-11.22,17.158c-.528.352-1.056.688-1.152.752-.208.112.576-2.193,5.314-15.829,4.386-12.612,4.305-12.292,4.322-16.277,0-1.488.016-2.689.048-2.689A11.493,11.493,0,0,1,125.678-421.339ZM84.4-403.83c3.377,9.251,6.1,16.854,6.05,16.9a3.1,3.1,0,0,1-1.008-.448A26.257,26.257,0,0,1,76.4-405.35a31.312,31.312,0,0,1,0-9.779c.4-2,1.521-5.522,1.777-5.522C78.222-420.651,81.039-413.081,84.4-403.83Zm22.168,7.026c2.161,5.938,3.953,10.9,3.985,11.028.048.256-1.216.656-3.553,1.152a32.19,32.19,0,0,1-7.843.32c-2.065-.256-4.514-.832-4.434-1.04.032-.1,1.777-5.2,3.889-11.332,2.1-6.13,3.873-11.108,3.921-11.044C102.6-407.655,104.407-402.741,106.568-396.8Z" transform="translate(858.465 6028.227)" fill="#4b20d1"/>
+    <text id="Compare_All_Cloud_Hosting" data-name="Compare All Cloud Hosting" transform="translate(960 5399)" fill="#1a094e" font-size="55" font-family="Montserrat" font-weight="600"><tspan x="-384.175" y="0">Compare All Cloud Hosting</tspan></text>
+    <text id="Build_your_social_media_following_Affiliates_can_market_to_Facebook_Twitter_YouTube_LinkedIn_and_Pinterest.-2" data-name="Build your social media following! Affiliates can market to Facebook, 
+                           Twitter, YouTube, LinkedIn and Pinterest." transform="translate(525 5456)" fill="#a4aec0" font-size="25" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Build your social media following! Affiliates can market to Facebook, </tspan><tspan x="0" y="45" xml:space="preserve">                           Twitter, YouTube, LinkedIn and Pinterest.</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_513)">
+      <g id="Rectangle_513-2" data-name="Rectangle 513" transform="translate(1157 5557)" fill="#fff" stroke="#e2e9ee" stroke-width="2">
+        <rect width="313" height="367" rx="10" stroke="none"/>
+        <rect x="1" y="1" width="311" height="365" rx="9" fill="none"/>
+      </g>
+    </g>
+    <text id="Programming-3" data-name="Programming" transform="translate(1205 5691.98)" fill="#0e0b41" font-size="30" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">Programming</tspan></text>
+    <text id="You_only_need_to_identify_potential_customers_our_affiliate_team_will_assist_you_with_the_conversion_and_you_will_receive_your_process_and_you_will_receive_your_Get_your_Money_in_your_bank_completed.-3" data-name="You only need to identify potential
+customers; our affiliate team will
+assist you with the conversion and 
+you will receive your process, and 
+you will receive your Get your 
+Money in your bank 
+completed." transform="translate(1313.5 5730.554)" font-size="15.5" font-family="Montserrat" font-weight="600"><tspan x="-137.779" y="0">You only need to identify potential</tspan><tspan x="-130.533" y="25">customers; our affiliate team will</tspan><tspan x="-140.05" y="50">assist you with the conversion and </tspan><tspan x="-135.865" y="75">you will receive your process, and </tspan><tspan x="-119.877" y="100">you will receive your Get your </tspan><tspan x="-81.142" y="125">Money in your bank </tspan><tspan x="-45.159" y="150">completed.</tspan></text>
+    <path id="Path_7380" data-name="Path 7380" d="M6.594-511.624a8.5,8.5,0,0,0-3.969,2.3,8.219,8.219,0,0,0-2.3,4.033C0-504.069,0-503.445,0-470.97s0,33.1.32,34.315a8.219,8.219,0,0,0,2.3,4.033,8.219,8.219,0,0,0,4.033,2.3c1.216.32,1.841.32,34.316.32s33.1,0,34.316-.32a8.219,8.219,0,0,0,4.033-2.3,8.219,8.219,0,0,0,2.3-4.033c.32-1.216.32-1.841.32-34.315s0-33.1-.32-34.315a8.142,8.142,0,0,0-2.385-4.1,7.69,7.69,0,0,0-3.953-2.241c-1.216-.32-1.873-.32-34.38-.3C8.739-511.928,7.731-511.912,6.594-511.624Zm39.069,9.683A31.4,31.4,0,0,1,71.7-477a31.255,31.255,0,0,1-6.642,26.025,31.275,31.275,0,0,1-36.332,8.835,29.552,29.552,0,0,1-9.843-6.738,29.39,29.39,0,0,1-6.738-9.843A29.946,29.946,0,0,1,9.7-470.97a29.947,29.947,0,0,1,2.449-12.244,29.8,29.8,0,0,1,6.722-9.859A29.8,29.8,0,0,1,28.73-499.8,31.608,31.608,0,0,1,45.664-501.941Z" transform="translate(1272.527 6088.95)" fill="#f2f3ff"/>
+    <path id="Path_7381" data-name="Path 7381" d="M98.837-439.537a30.416,30.416,0,0,0-6.018,1.36,29.377,29.377,0,0,0-18.71,18.694,24.721,24.721,0,0,0-1.408,9.235,24.4,24.4,0,0,0,.352,5.2A30.323,30.323,0,0,0,82.5-388.225a29.7,29.7,0,0,0,20.743,7.378A29.386,29.386,0,0,0,128.415-397.2a29.475,29.475,0,0,0,1.553-22.279,29.71,29.71,0,0,0-11.7-15.333,31.57,31.57,0,0,0-10.948-4.4A40.091,40.091,0,0,0,98.837-439.537Zm8.227,3.681a26.362,26.362,0,0,1,11.428,5.33,7.083,7.083,0,0,1,.992.912c0,.064-.352.16-.8.192a4.472,4.472,0,0,0-3.537,3.217,7.648,7.648,0,0,0-.112,1.824c.08,1.265.672,2.689,1.985,4.8a22.286,22.286,0,0,1,2.257,4.85,12.233,12.233,0,0,1,.272,3.281,12.782,12.782,0,0,1-.592,4.4c-.528,2.017-3.729,12.324-3.857,12.452-.032.032-.528-1.344-1.1-3.041-6.434-19.158-8.275-24.664-8.275-24.792,0-.08.416-.144.928-.16,1.409-.016,2.465-.224,2.7-.56a1.133,1.133,0,0,0-.112-1.424c-.3-.272-.528-.288-4.241-.112-2.145.1-4,.16-4.113.128-.112-.048-1.7-.112-3.505-.176-3.7-.112-3.825-.08-3.825.96,0,.768.448,1.008,2.129,1.136,1.072.08,1.44.176,1.553.368.08.16,1.008,2.657,2.081,5.586l1.937,5.33-2.833,8.5a83.845,83.845,0,0,1-2.945,8.275c-.144-.24-9.235-27.273-9.315-27.673-.032-.176.256-.256,1.473-.368a6.329,6.329,0,0,0,1.873-.352,1.025,1.025,0,0,0,.3-1.44c-.3-.464-.416-.48-5.3-.256-1.665.08-3.313.1-3.633.048l-.608-.112.848-1.12a26.762,26.762,0,0,1,9.635-7.923A28.645,28.645,0,0,1,99.4-436.24,38.627,38.627,0,0,1,107.064-435.856Zm18.614,14.517a29.342,29.342,0,0,1,2,6.21,32.192,32.192,0,0,1,.064,9.443,26.644,26.644,0,0,1-11.22,17.158c-.528.352-1.056.688-1.152.752-.208.112.576-2.193,5.314-15.829,4.386-12.612,4.305-12.292,4.322-16.277,0-1.488.016-2.689.048-2.689A11.493,11.493,0,0,1,125.678-421.339ZM84.4-403.83c3.377,9.251,6.1,16.854,6.05,16.9a3.1,3.1,0,0,1-1.008-.448A26.257,26.257,0,0,1,76.4-405.35a31.312,31.312,0,0,1,0-9.779c.4-2,1.521-5.522,1.777-5.522C78.222-420.651,81.039-413.081,84.4-403.83Zm22.168,7.026c2.161,5.938,3.953,10.9,3.985,11.028.048.256-1.216.656-3.553,1.152a32.19,32.19,0,0,1-7.843.32c-2.065-.256-4.514-.832-4.434-1.04.032-.1,1.777-5.2,3.889-11.332,2.1-6.13,3.873-11.108,3.921-11.044C102.6-407.655,104.407-402.741,106.568-396.8Z" transform="translate(1211.465 6028.227)" fill="#4b20d1"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_514)">
+      <g id="Rectangle_514-2" data-name="Rectangle 514" transform="translate(451 5974)" fill="#fff" stroke="#e2e9ee" stroke-width="2">
+        <rect width="313" height="367" rx="10" stroke="none"/>
+        <rect x="1" y="1" width="311" height="365" rx="9" fill="none"/>
+      </g>
+    </g>
+    <text id="Programming-4" data-name="Programming" transform="translate(499 6108.98)" fill="#0e0b41" font-size="30" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">Programming</tspan></text>
+    <text id="You_only_need_to_identify_potential_customers_our_affiliate_team_will_assist_you_with_the_conversion_and_you_will_receive_your_process_and_you_will_receive_your_Get_your_Money_in_your_bank_completed.-4" data-name="You only need to identify potential
+customers; our affiliate team will
+assist you with the conversion and 
+you will receive your process, and 
+you will receive your Get your 
+Money in your bank 
+completed." transform="translate(607.5 6147.554)" font-size="15.5" font-family="Montserrat" font-weight="600"><tspan x="-137.779" y="0">You only need to identify potential</tspan><tspan x="-130.533" y="25">customers; our affiliate team will</tspan><tspan x="-140.05" y="50">assist you with the conversion and </tspan><tspan x="-135.865" y="75">you will receive your process, and </tspan><tspan x="-119.877" y="100">you will receive your Get your </tspan><tspan x="-81.142" y="125">Money in your bank </tspan><tspan x="-45.159" y="150">completed.</tspan></text>
+    <path id="Path_7382" data-name="Path 7382" d="M6.594-511.624a8.5,8.5,0,0,0-3.969,2.3,8.219,8.219,0,0,0-2.3,4.033C0-504.069,0-503.445,0-470.97s0,33.1.32,34.315a8.219,8.219,0,0,0,2.3,4.033,8.219,8.219,0,0,0,4.033,2.3c1.216.32,1.841.32,34.316.32s33.1,0,34.316-.32a8.219,8.219,0,0,0,4.033-2.3,8.219,8.219,0,0,0,2.3-4.033c.32-1.216.32-1.841.32-34.315s0-33.1-.32-34.315a8.142,8.142,0,0,0-2.385-4.1,7.69,7.69,0,0,0-3.953-2.241c-1.216-.32-1.873-.32-34.38-.3C8.739-511.928,7.731-511.912,6.594-511.624Zm39.069,9.683A31.4,31.4,0,0,1,71.7-477a31.255,31.255,0,0,1-6.642,26.025,31.275,31.275,0,0,1-36.332,8.835,29.552,29.552,0,0,1-9.843-6.738,29.39,29.39,0,0,1-6.738-9.843A29.946,29.946,0,0,1,9.7-470.97a29.947,29.947,0,0,1,2.449-12.244,29.8,29.8,0,0,1,6.722-9.859A29.8,29.8,0,0,1,28.73-499.8,31.608,31.608,0,0,1,45.664-501.941Z" transform="translate(566.527 6505.95)" fill="#f2f3ff"/>
+    <path id="Path_7383" data-name="Path 7383" d="M98.837-439.537a30.416,30.416,0,0,0-6.018,1.36,29.377,29.377,0,0,0-18.71,18.694,24.721,24.721,0,0,0-1.408,9.235,24.4,24.4,0,0,0,.352,5.2A30.323,30.323,0,0,0,82.5-388.225a29.7,29.7,0,0,0,20.743,7.378A29.386,29.386,0,0,0,128.415-397.2a29.475,29.475,0,0,0,1.553-22.279,29.71,29.71,0,0,0-11.7-15.333,31.57,31.57,0,0,0-10.948-4.4A40.091,40.091,0,0,0,98.837-439.537Zm8.227,3.681a26.362,26.362,0,0,1,11.428,5.33,7.083,7.083,0,0,1,.992.912c0,.064-.352.16-.8.192a4.472,4.472,0,0,0-3.537,3.217,7.648,7.648,0,0,0-.112,1.824c.08,1.265.672,2.689,1.985,4.8a22.286,22.286,0,0,1,2.257,4.85,12.233,12.233,0,0,1,.272,3.281,12.782,12.782,0,0,1-.592,4.4c-.528,2.017-3.729,12.324-3.857,12.452-.032.032-.528-1.344-1.1-3.041-6.434-19.158-8.275-24.664-8.275-24.792,0-.08.416-.144.928-.16,1.409-.016,2.465-.224,2.7-.56a1.133,1.133,0,0,0-.112-1.424c-.3-.272-.528-.288-4.241-.112-2.145.1-4,.16-4.113.128-.112-.048-1.7-.112-3.505-.176-3.7-.112-3.825-.08-3.825.96,0,.768.448,1.008,2.129,1.136,1.072.08,1.44.176,1.553.368.08.16,1.008,2.657,2.081,5.586l1.937,5.33-2.833,8.5a83.845,83.845,0,0,1-2.945,8.275c-.144-.24-9.235-27.273-9.315-27.673-.032-.176.256-.256,1.473-.368a6.329,6.329,0,0,0,1.873-.352,1.025,1.025,0,0,0,.3-1.44c-.3-.464-.416-.48-5.3-.256-1.665.08-3.313.1-3.633.048l-.608-.112.848-1.12a26.762,26.762,0,0,1,9.635-7.923A28.645,28.645,0,0,1,99.4-436.24,38.627,38.627,0,0,1,107.064-435.856Zm18.614,14.517a29.342,29.342,0,0,1,2,6.21,32.192,32.192,0,0,1,.064,9.443,26.644,26.644,0,0,1-11.22,17.158c-.528.352-1.056.688-1.152.752-.208.112.576-2.193,5.314-15.829,4.386-12.612,4.305-12.292,4.322-16.277,0-1.488.016-2.689.048-2.689A11.493,11.493,0,0,1,125.678-421.339ZM84.4-403.83c3.377,9.251,6.1,16.854,6.05,16.9a3.1,3.1,0,0,1-1.008-.448A26.257,26.257,0,0,1,76.4-405.35a31.312,31.312,0,0,1,0-9.779c.4-2,1.521-5.522,1.777-5.522C78.222-420.651,81.039-413.081,84.4-403.83Zm22.168,7.026c2.161,5.938,3.953,10.9,3.985,11.028.048.256-1.216.656-3.553,1.152a32.19,32.19,0,0,1-7.843.32c-2.065-.256-4.514-.832-4.434-1.04.032-.1,1.777-5.2,3.889-11.332,2.1-6.13,3.873-11.108,3.921-11.044C102.6-407.655,104.407-402.741,106.568-396.8Z" transform="translate(505.465 6445.227)" fill="#4b20d1"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_515)">
+      <g id="Rectangle_515-2" data-name="Rectangle 515" transform="translate(804 5974)" fill="#fff" stroke="#e2e9ee" stroke-width="2">
+        <rect width="313" height="367" rx="10" stroke="none"/>
+        <rect x="1" y="1" width="311" height="365" rx="9" fill="none"/>
+      </g>
+    </g>
+    <text id="Programming-5" data-name="Programming" transform="translate(852 6108.98)" fill="#0e0b41" font-size="30" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">Programming</tspan></text>
+    <text id="You_only_need_to_identify_potential_customers_our_affiliate_team_will_assist_you_with_the_conversion_and_you_will_receive_your_process_and_you_will_receive_your_Get_your_Money_in_your_bank_completed.-5" data-name="You only need to identify potential
+customers; our affiliate team will
+assist you with the conversion and 
+you will receive your process, and 
+you will receive your Get your 
+Money in your bank 
+completed." transform="translate(960.5 6147.554)" font-size="15.5" font-family="Montserrat" font-weight="600"><tspan x="-137.779" y="0">You only need to identify potential</tspan><tspan x="-130.533" y="25">customers; our affiliate team will</tspan><tspan x="-140.05" y="50">assist you with the conversion and </tspan><tspan x="-135.865" y="75">you will receive your process, and </tspan><tspan x="-119.877" y="100">you will receive your Get your </tspan><tspan x="-81.142" y="125">Money in your bank </tspan><tspan x="-45.159" y="150">completed.</tspan></text>
+    <path id="Path_7384" data-name="Path 7384" d="M6.594-511.624a8.5,8.5,0,0,0-3.969,2.3,8.219,8.219,0,0,0-2.3,4.033C0-504.069,0-503.445,0-470.97s0,33.1.32,34.315a8.219,8.219,0,0,0,2.3,4.033,8.219,8.219,0,0,0,4.033,2.3c1.216.32,1.841.32,34.316.32s33.1,0,34.316-.32a8.219,8.219,0,0,0,4.033-2.3,8.219,8.219,0,0,0,2.3-4.033c.32-1.216.32-1.841.32-34.315s0-33.1-.32-34.315a8.142,8.142,0,0,0-2.385-4.1,7.69,7.69,0,0,0-3.953-2.241c-1.216-.32-1.873-.32-34.38-.3C8.739-511.928,7.731-511.912,6.594-511.624Zm39.069,9.683A31.4,31.4,0,0,1,71.7-477a31.255,31.255,0,0,1-6.642,26.025,31.275,31.275,0,0,1-36.332,8.835,29.552,29.552,0,0,1-9.843-6.738,29.39,29.39,0,0,1-6.738-9.843A29.946,29.946,0,0,1,9.7-470.97a29.947,29.947,0,0,1,2.449-12.244,29.8,29.8,0,0,1,6.722-9.859A29.8,29.8,0,0,1,28.73-499.8,31.608,31.608,0,0,1,45.664-501.941Z" transform="translate(919.527 6505.95)" fill="#f2f3ff"/>
+    <path id="Path_7385" data-name="Path 7385" d="M98.837-439.537a30.416,30.416,0,0,0-6.018,1.36,29.377,29.377,0,0,0-18.71,18.694,24.721,24.721,0,0,0-1.408,9.235,24.4,24.4,0,0,0,.352,5.2A30.323,30.323,0,0,0,82.5-388.225a29.7,29.7,0,0,0,20.743,7.378A29.386,29.386,0,0,0,128.415-397.2a29.475,29.475,0,0,0,1.553-22.279,29.71,29.71,0,0,0-11.7-15.333,31.57,31.57,0,0,0-10.948-4.4A40.091,40.091,0,0,0,98.837-439.537Zm8.227,3.681a26.362,26.362,0,0,1,11.428,5.33,7.083,7.083,0,0,1,.992.912c0,.064-.352.16-.8.192a4.472,4.472,0,0,0-3.537,3.217,7.648,7.648,0,0,0-.112,1.824c.08,1.265.672,2.689,1.985,4.8a22.286,22.286,0,0,1,2.257,4.85,12.233,12.233,0,0,1,.272,3.281,12.782,12.782,0,0,1-.592,4.4c-.528,2.017-3.729,12.324-3.857,12.452-.032.032-.528-1.344-1.1-3.041-6.434-19.158-8.275-24.664-8.275-24.792,0-.08.416-.144.928-.16,1.409-.016,2.465-.224,2.7-.56a1.133,1.133,0,0,0-.112-1.424c-.3-.272-.528-.288-4.241-.112-2.145.1-4,.16-4.113.128-.112-.048-1.7-.112-3.505-.176-3.7-.112-3.825-.08-3.825.96,0,.768.448,1.008,2.129,1.136,1.072.08,1.44.176,1.553.368.08.16,1.008,2.657,2.081,5.586l1.937,5.33-2.833,8.5a83.845,83.845,0,0,1-2.945,8.275c-.144-.24-9.235-27.273-9.315-27.673-.032-.176.256-.256,1.473-.368a6.329,6.329,0,0,0,1.873-.352,1.025,1.025,0,0,0,.3-1.44c-.3-.464-.416-.48-5.3-.256-1.665.08-3.313.1-3.633.048l-.608-.112.848-1.12a26.762,26.762,0,0,1,9.635-7.923A28.645,28.645,0,0,1,99.4-436.24,38.627,38.627,0,0,1,107.064-435.856Zm18.614,14.517a29.342,29.342,0,0,1,2,6.21,32.192,32.192,0,0,1,.064,9.443,26.644,26.644,0,0,1-11.22,17.158c-.528.352-1.056.688-1.152.752-.208.112.576-2.193,5.314-15.829,4.386-12.612,4.305-12.292,4.322-16.277,0-1.488.016-2.689.048-2.689A11.493,11.493,0,0,1,125.678-421.339ZM84.4-403.83c3.377,9.251,6.1,16.854,6.05,16.9a3.1,3.1,0,0,1-1.008-.448A26.257,26.257,0,0,1,76.4-405.35a31.312,31.312,0,0,1,0-9.779c.4-2,1.521-5.522,1.777-5.522C78.222-420.651,81.039-413.081,84.4-403.83Zm22.168,7.026c2.161,5.938,3.953,10.9,3.985,11.028.048.256-1.216.656-3.553,1.152a32.19,32.19,0,0,1-7.843.32c-2.065-.256-4.514-.832-4.434-1.04.032-.1,1.777-5.2,3.889-11.332,2.1-6.13,3.873-11.108,3.921-11.044C102.6-407.655,104.407-402.741,106.568-396.8Z" transform="translate(858.465 6445.227)" fill="#4b20d1"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_516)">
+      <g id="Rectangle_516-2" data-name="Rectangle 516" transform="translate(1157 5974)" fill="#fff" stroke="#e2e9ee" stroke-width="2">
+        <rect width="313" height="367" rx="10" stroke="none"/>
+        <rect x="1" y="1" width="311" height="365" rx="9" fill="none"/>
+      </g>
+    </g>
+    <text id="Programming-6" data-name="Programming" transform="translate(1205 6108.98)" fill="#0e0b41" font-size="30" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">Programming</tspan></text>
+    <text id="You_only_need_to_identify_potential_customers_our_affiliate_team_will_assist_you_with_the_conversion_and_you_will_receive_your_process_and_you_will_receive_your_Get_your_Money_in_your_bank_completed.-6" data-name="You only need to identify potential
+customers; our affiliate team will
+assist you with the conversion and 
+you will receive your process, and 
+you will receive your Get your 
+Money in your bank 
+completed." transform="translate(1313.5 6147.554)" font-size="15.5" font-family="Montserrat" font-weight="600"><tspan x="-137.779" y="0">You only need to identify potential</tspan><tspan x="-130.533" y="25">customers; our affiliate team will</tspan><tspan x="-140.05" y="50">assist you with the conversion and </tspan><tspan x="-135.865" y="75">you will receive your process, and </tspan><tspan x="-119.877" y="100">you will receive your Get your </tspan><tspan x="-81.142" y="125">Money in your bank </tspan><tspan x="-45.159" y="150">completed.</tspan></text>
+    <path id="Path_7386" data-name="Path 7386" d="M6.594-511.624a8.5,8.5,0,0,0-3.969,2.3,8.219,8.219,0,0,0-2.3,4.033C0-504.069,0-503.445,0-470.97s0,33.1.32,34.315a8.219,8.219,0,0,0,2.3,4.033,8.219,8.219,0,0,0,4.033,2.3c1.216.32,1.841.32,34.316.32s33.1,0,34.316-.32a8.219,8.219,0,0,0,4.033-2.3,8.219,8.219,0,0,0,2.3-4.033c.32-1.216.32-1.841.32-34.315s0-33.1-.32-34.315a8.142,8.142,0,0,0-2.385-4.1,7.69,7.69,0,0,0-3.953-2.241c-1.216-.32-1.873-.32-34.38-.3C8.739-511.928,7.731-511.912,6.594-511.624Zm39.069,9.683A31.4,31.4,0,0,1,71.7-477a31.255,31.255,0,0,1-6.642,26.025,31.275,31.275,0,0,1-36.332,8.835,29.552,29.552,0,0,1-9.843-6.738,29.39,29.39,0,0,1-6.738-9.843A29.946,29.946,0,0,1,9.7-470.97a29.947,29.947,0,0,1,2.449-12.244,29.8,29.8,0,0,1,6.722-9.859A29.8,29.8,0,0,1,28.73-499.8,31.608,31.608,0,0,1,45.664-501.941Z" transform="translate(1272.527 6505.95)" fill="#f2f3ff"/>
+    <path id="Path_7387" data-name="Path 7387" d="M98.837-439.537a30.416,30.416,0,0,0-6.018,1.36,29.377,29.377,0,0,0-18.71,18.694,24.721,24.721,0,0,0-1.408,9.235,24.4,24.4,0,0,0,.352,5.2A30.323,30.323,0,0,0,82.5-388.225a29.7,29.7,0,0,0,20.743,7.378A29.386,29.386,0,0,0,128.415-397.2a29.475,29.475,0,0,0,1.553-22.279,29.71,29.71,0,0,0-11.7-15.333,31.57,31.57,0,0,0-10.948-4.4A40.091,40.091,0,0,0,98.837-439.537Zm8.227,3.681a26.362,26.362,0,0,1,11.428,5.33,7.083,7.083,0,0,1,.992.912c0,.064-.352.16-.8.192a4.472,4.472,0,0,0-3.537,3.217,7.648,7.648,0,0,0-.112,1.824c.08,1.265.672,2.689,1.985,4.8a22.286,22.286,0,0,1,2.257,4.85,12.233,12.233,0,0,1,.272,3.281,12.782,12.782,0,0,1-.592,4.4c-.528,2.017-3.729,12.324-3.857,12.452-.032.032-.528-1.344-1.1-3.041-6.434-19.158-8.275-24.664-8.275-24.792,0-.08.416-.144.928-.16,1.409-.016,2.465-.224,2.7-.56a1.133,1.133,0,0,0-.112-1.424c-.3-.272-.528-.288-4.241-.112-2.145.1-4,.16-4.113.128-.112-.048-1.7-.112-3.505-.176-3.7-.112-3.825-.08-3.825.96,0,.768.448,1.008,2.129,1.136,1.072.08,1.44.176,1.553.368.08.16,1.008,2.657,2.081,5.586l1.937,5.33-2.833,8.5a83.845,83.845,0,0,1-2.945,8.275c-.144-.24-9.235-27.273-9.315-27.673-.032-.176.256-.256,1.473-.368a6.329,6.329,0,0,0,1.873-.352,1.025,1.025,0,0,0,.3-1.44c-.3-.464-.416-.48-5.3-.256-1.665.08-3.313.1-3.633.048l-.608-.112.848-1.12a26.762,26.762,0,0,1,9.635-7.923A28.645,28.645,0,0,1,99.4-436.24,38.627,38.627,0,0,1,107.064-435.856Zm18.614,14.517a29.342,29.342,0,0,1,2,6.21,32.192,32.192,0,0,1,.064,9.443,26.644,26.644,0,0,1-11.22,17.158c-.528.352-1.056.688-1.152.752-.208.112.576-2.193,5.314-15.829,4.386-12.612,4.305-12.292,4.322-16.277,0-1.488.016-2.689.048-2.689A11.493,11.493,0,0,1,125.678-421.339ZM84.4-403.83c3.377,9.251,6.1,16.854,6.05,16.9a3.1,3.1,0,0,1-1.008-.448A26.257,26.257,0,0,1,76.4-405.35a31.312,31.312,0,0,1,0-9.779c.4-2,1.521-5.522,1.777-5.522C78.222-420.651,81.039-413.081,84.4-403.83Zm22.168,7.026c2.161,5.938,3.953,10.9,3.985,11.028.048.256-1.216.656-3.553,1.152a32.19,32.19,0,0,1-7.843.32c-2.065-.256-4.514-.832-4.434-1.04.032-.1,1.777-5.2,3.889-11.332,2.1-6.13,3.873-11.108,3.921-11.044C102.6-407.655,104.407-402.741,106.568-396.8Z" transform="translate(1211.465 6445.227)" fill="#4b20d1"/>
+    <text id="Design_Develop_For_Better_Solution" data-name="Design &amp; Develop
+For Better Solution" transform="translate(185 917)" font-size="55" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">Design &amp; Develop</tspan><tspan x="0" y="70">For Better Solution</tspan></text>
+    <text id="Popular_Operating_System" data-name="Popular Operating System" transform="translate(185 1088)" font-size="38" font-family="Montserrat" font-weight="700"><tspan x="0" y="0">Popular Operating System</tspan></text>
+    <text id="A_versatile_web-based_control_panel_that_makes_your_website_management_easier_with_the_help_of_a_user-friendly_Graphic_User" data-name="A versatile web-based control panel that makes your website management
+easier with the help of a user-friendly Graphic User" transform="translate(185 1137)" font-size="20" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">A versatile web-based control panel that makes your website management</tspan><tspan x="0" y="35">easier with the help of a user-friendly Graphic User</tspan></text>
+    <g id="Rectangle_287-3" data-name="Rectangle 287" transform="translate(1085 840)" fill="#fff" stroke="#4b20d1" stroke-width="2">
+      <rect width="313" height="422" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="311" height="420" rx="9" fill="none"/>
+    </g>
+    <text id="_.IN_is_India_s_top-level_domain_on_the_Internet._Unlike_other_domains_.IN_is_a_unique_symbol_of_India_and_its_role_in_the_world." data-name=".IN is India’s top-level domain 
+on the Internet. Unlike other 
+domains, .IN is a unique symbol 
+of India and its role in the world." transform="translate(1102 979.554)" font-size="15.5" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">.IN is India’s top-level domain </tspan><tspan x="0" y="25">on the Internet. Unlike other </tspan><tspan x="0" y="50">domains, .IN is a unique symbol </tspan><tspan x="0" y="75">of India and its role in the world.</tspan></text>
+    <rect id="Rectangle_168" data-name="Rectangle 168" width="85" height="78" rx="10" transform="translate(1102 868)" fill="#f2f3ff"/>
+    <rect id="_1200px-.net_logo.svg" data-name="1200px-.net_logo.svg" width="68" height="27" transform="translate(1111 894)" fill="url(#pattern)"/>
+    <text id="_179_yr" data-name="₹179/yr" transform="translate(1102 1133)" fill="#0e0b41" font-size="40" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">₹179/yr</tspan></text>
+    <rect id="Rectangle_506" data-name="Rectangle 506" width="204" height="59" rx="7" transform="translate(1140 1178)" fill="#27203d"/>
+    <text id="Choose_Plan" data-name="Choose Plan" transform="translate(1179 1215)" fill="#fff" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Choose Plan</tspan></text>
+    <text id="_4999" data-name="₹4999" transform="translate(1102 1095.5)" fill="#bfc1c0" font-size="17" font-family="Montserrat" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">₹4999</tspan></text>
+    <path id="Path_7362" data-name="Path 7362" d="M17014.949,1863.08h57.066" transform="translate(-15910 -772.5)" fill="none" stroke="#bfc1c0" stroke-width="1"/>
+    <g id="Rectangle_507" data-name="Rectangle 507" transform="translate(1438 840)" fill="#fff" stroke="#4b20d1" stroke-width="2">
+      <rect width="313" height="422" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="311" height="420" rx="9" fill="none"/>
+    </g>
+    <text id="_.IN_is_India_s_top-level_domain_on_the_Internet._Unlike_other_domains_.IN_is_a_unique_symbol_of_India_and_its_role_in_the_world.-2" data-name=".IN is India’s top-level domain 
+on the Internet. Unlike other 
+domains, .IN is a unique symbol 
+of India and its role in the world." transform="translate(1455 979.554)" font-size="15.5" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">.IN is India’s top-level domain </tspan><tspan x="0" y="25">on the Internet. Unlike other </tspan><tspan x="0" y="50">domains, .IN is a unique symbol </tspan><tspan x="0" y="75">of India and its role in the world.</tspan></text>
+    <rect id="Rectangle_508" data-name="Rectangle 508" width="85" height="78" rx="10" transform="translate(1455 868)" fill="#f2f3ff"/>
+    <rect id="_1200px-.net_logo.svg-2" data-name="1200px-.net_logo.svg" width="68" height="27" transform="translate(1464 894)" fill="url(#pattern)"/>
+    <text id="_179_yr-2" data-name="₹179/yr" transform="translate(1455 1133)" fill="#0e0b41" font-size="40" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">₹179/yr</tspan></text>
+    <rect id="Rectangle_509" data-name="Rectangle 509" width="204" height="59" rx="7" transform="translate(1493 1178)" fill="#27203d"/>
+    <text id="Choose_Plan-2" data-name="Choose Plan" transform="translate(1532 1215)" fill="#fff" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Choose Plan</tspan></text>
+    <text id="_4999-2" data-name="₹4999" transform="translate(1455 1095.5)" fill="#bfc1c0" font-size="17" font-family="Montserrat" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">₹4999</tspan></text>
+    <path id="Path_7377" data-name="Path 7377" d="M17014.949,1863.08h57.066" transform="translate(-15557 -772.5)" fill="none" stroke="#bfc1c0" stroke-width="1"/>
+    <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="20" cy="19" rx="20" ry="19" transform="matrix(-0.999, 0.035, -0.035, -0.999, 1236.957, 1340.839)" fill="#4b20d1"/>
+    <path id="Path_7276-8" data-name="Path 7276" d="M10.165.175C9.68.417.281,9.809.1,10.22a2.049,2.049,0,0,0,0,1.293c.162.375,9.722,9.95,10.149,10.156a1.669,1.669,0,0,0,.683.147,1.543,1.543,0,0,0,1.4-2.2,51.287,51.287,0,0,0-4.35-4.541l-4.2-4.2L7.946,6.693A49.894,49.894,0,0,0,12.26,2.2,1.536,1.536,0,0,0,10.165.175Z" transform="translate(1222.546 1333.457) rotate(-180)" fill="#fff"/>
+    <ellipse id="Ellipse_109" data-name="Ellipse 109" cx="20" cy="19" rx="20" ry="19" transform="matrix(1, -0.017, 0.017, 1, 1084.999, 1303.561)" fill="#4b20d1"/>
+    <path id="Path_7378" data-name="Path 7378" d="M10.165.175C9.68.417.281,9.809.1,10.22a2.049,2.049,0,0,0,0,1.293c.162.375,9.722,9.95,10.149,10.156a1.669,1.669,0,0,0,.683.147,1.543,1.543,0,0,0,1.4-2.2,51.287,51.287,0,0,0-4.35-4.541l-4.2-4.2L7.946,6.693A49.894,49.894,0,0,0,12.26,2.2,1.536,1.536,0,0,0,10.165.175Z" transform="translate(1099.278 1311.193) rotate(1)" fill="#fff"/>
+    <g id="Rectangle_510" data-name="Rectangle 510" transform="translate(1791 840)" fill="#fff" stroke="#4b20d1" stroke-width="2" opacity="0.4">
+      <rect width="313" height="422" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="311" height="420" rx="9" fill="none"/>
+    </g>
+    <text id="_.IN_is_India_s_top-level_domain_on_the_Internet._Unlike_other_domains_.IN_is_a_unique_symbol_of_India_and_its_role_in_the_world.-3" data-name=".IN is India’s top-level domain 
+on the Internet. Unlike other 
+domains, .IN is a unique symbol 
+of India and its role in the world." transform="translate(1808 979.554)" font-size="15.5" font-family="Montserrat" font-weight="600" opacity="0.4"><tspan x="0" y="0">.IN is India’s top-level domain </tspan><tspan x="0" y="25">on the Internet. Unlike other </tspan><tspan x="0" y="50">domains, .IN is a unique symbol </tspan><tspan x="0" y="75">of India and its role in the world.</tspan></text>
+    <rect id="Rectangle_511" data-name="Rectangle 511" width="85" height="78" rx="10" transform="translate(1808 868)" fill="#f2f3ff" opacity="0.4"/>
+    <rect id="_1200px-.net_logo.svg-3" data-name="1200px-.net_logo.svg" width="68" height="27" transform="translate(1817 894)" opacity="0.4" fill="url(#pattern)"/>
+    <text id="_179_yr-3" data-name="₹179/yr" transform="translate(1808 1133)" fill="#0e0b41" font-size="40" font-family="Montserrat" font-weight="600" opacity="0.4"><tspan x="0" y="0">₹179/yr</tspan></text>
+    <rect id="Rectangle_512" data-name="Rectangle 512" width="204" height="59" rx="7" transform="translate(1846 1178)" fill="#27203d" opacity="0.4"/>
+    <text id="Choose_Plan-3" data-name="Choose Plan" transform="translate(1885 1215)" fill="#fff" font-size="20" font-family="Montserrat" font-weight="500" opacity="0.4"><tspan x="0" y="0">Choose Plan</tspan></text>
+    <text id="_4999-3" data-name="₹4999" transform="translate(1808 1095.5)" fill="#bfc1c0" font-size="17" font-family="Montserrat" font-weight="600" letter-spacing="0.01em" opacity="0.4"><tspan x="0" y="0">₹4999</tspan></text>
+    <path id="Path_7379" data-name="Path 7379" d="M17014.949,1863.08h57.066" transform="translate(-15204 -772.5)" fill="none" stroke="#bfc1c0" stroke-width="1" opacity="0.4"/>
+    <rect id="Rectangle_184" data-name="Rectangle 184" width="1920" height="410" transform="translate(0 7782)" fill="#4b20d1"/>
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="1920" height="721" fill="#27203d"/>
+    <text id="Looking_for_Available_Domains_Use_Our_Domain_Checker" data-name="Looking for Available Domains? Use 
+Our Domain Checker" transform="translate(960 254)" fill="#fff" font-size="50" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-477.95" y="0">Looking for Available Domains? Use </tspan><tspan x="-275.3" y="70">Our Domain Checker</tspan></text>
+    <rect id="Rectangle_120" data-name="Rectangle 120" width="1920" height="727" transform="translate(0 8192)" fill="#08192b"/>
+    <text id="Lorem_Ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry._Lorem_Ipsum_has_been_the_industry_s_standard_dummy_text_" data-name="Lorem Ipsum is simply dummy text of 
+the printing and typesetting industry. 
+Lorem Ipsum has been the industry&apos;s 
+standard dummy text " transform="translate(152 8379)" fill="#a4aec0" font-size="20" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Lorem Ipsum is simply dummy text of </tspan><tspan x="0" y="35">the printing and typesetting industry. </tspan><tspan x="0" y="70">Lorem Ipsum has been the industry&apos;s </tspan><tspan x="0" y="105">standard dummy text </tspan></text>
+    <text id="App_Development" data-name="App Development" transform="translate(683 8378)" fill="#a4aec0" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">App Development</tspan></text>
+    <text id="Android_App_Development" data-name="Android App Development" transform="translate(683 8427)" fill="#a4aec0" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Android App Development</tspan></text>
+    <text id="ios_app_Development" data-name="ios app Development" transform="translate(683 8472)" fill="#a4aec0" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">ios app Development</tspan></text>
+    <text id="Augmented_Reality" data-name="Augmented Reality" transform="translate(683 8517)" fill="#a4aec0" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Augmented Reality</tspan></text>
+    <text id="AWS_Development" data-name="AWS Development" transform="translate(683 8562)" fill="#a4aec0" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">AWS Development</tspan></text>
+    <text id="BigCommerce" transform="translate(683 8607)" fill="#a4aec0" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">BigCommerce</tspan></text>
+    <text id="Cake_PHP_Development" data-name="Cake PHP Development" transform="translate(683 8652)" fill="#a4aec0" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Cake PHP Development</tspan></text>
+    <text id="CodeIgniter_Development" data-name="CodeIgniter Development" transform="translate(683 8697)" fill="#a4aec0" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">CodeIgniter Development</tspan></text>
+    <text id="Services" transform="translate(683 8321)" fill="#fff" font-size="30" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">Services</tspan></text>
+    <text id="About_us" data-name="About us" transform="translate(1166 8378)" fill="#a4aec0" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">About us</tspan></text>
+    <text id="Contact_us" data-name="Contact us" transform="translate(1166 8427)" fill="#a4aec0" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Contact us</tspan></text>
+    <text id="Blog" transform="translate(1166 8472)" fill="#a4aec0" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Blog</tspan></text>
+    <text id="FAQS" transform="translate(1166 8517)" fill="#a4aec0" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">FAQS</tspan></text>
+    <text id="Branding" transform="translate(1166 8562)" fill="#a4aec0" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Branding</tspan></text>
+    <text id="Policies" transform="translate(1166 8607)" fill="#a4aec0" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Policies</tspan></text>
+    <text id="Sitemap" transform="translate(1166 8652)" fill="#a4aec0" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Sitemap</tspan></text>
+    <text id="Contact_us-2" data-name="Contact us" transform="translate(1166 8321)" fill="#fff" font-size="30" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">Contact us</tspan></text>
+    <path id="Path_2144" data-name="Path 2144" d="M2001,5523.749H3605" transform="translate(-1864 3291.383)" fill="none" stroke="#40464e" stroke-width="1"/>
+    <text id="_91_9990092999" data-name="+91 9990092999" transform="translate(209 8538)" fill="#a4aec0" font-size="25" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">+91 9990092999</tspan></text>
+    <g id="india" transform="translate(152 8426.725)">
+      <path id="Path_2145" data-name="Path 2145" d="M38.855,88.276H3.145A3.145,3.145,0,0,0,0,91.421v6.027H42V91.421A3.145,3.145,0,0,0,38.855,88.276Z" fill="#fab446"/>
+      <path id="Path_2146" data-name="Path 2146" d="M0,317.935a3.145,3.145,0,0,0,3.145,3.145H38.855A3.145,3.145,0,0,0,42,317.935v-6.027H0Z" transform="translate(0 -205.287)" fill="#73af00"/>
+      <rect id="Rectangle_121" data-name="Rectangle 121" width="42" height="9.172" transform="translate(0 97.448)" fill="#f5f5f5"/>
+      <g id="Group_602" data-name="Group 602" transform="translate(17.108 98.142)">
+        <path id="Path_2147" data-name="Path 2147" d="M212.444,216.336a3.892,3.892,0,1,1,3.892-3.892A3.9,3.9,0,0,1,212.444,216.336Zm0-7.06a3.168,3.168,0,1,0,3.168,3.168A3.171,3.171,0,0,0,212.444,209.276Z" transform="translate(-208.552 -208.552)" fill="#41479b"/>
+        <circle id="Ellipse_19" data-name="Ellipse 19" cx="0.441" cy="0.441" r="0.441" transform="translate(3.451 3.451)" fill="#41479b"/>
+        <path id="Path_2148" data-name="Path 2148" d="M216.5,254.059l-1.121.113-2.409-.113v-.132l2.409-.113,1.121.113Z" transform="translate(-212.604 -250.1)" fill="#41479b"/>
+        <path id="Path_2149" data-name="Path 2149" d="M256,254.059l1.121.113,2.409-.113v-.132l-2.409-.113-1.121.113Z" transform="translate(-252.108 -250.1)" fill="#41479b"/>
+        <path id="Path_2150" data-name="Path 2150" d="M253.926,216.5l-.113-1.121.113-2.409h.132l.113,2.409-.113,1.121Z" transform="translate(-250.1 -212.604)" fill="#41479b"/>
+        <path id="Path_2151" data-name="Path 2151" d="M253.926,256l-.113,1.121.113,2.409h.132l.113-2.409L254.059,256Z" transform="translate(-250.1 -252.108)" fill="#41479b"/>
+        <path id="Path_2152" data-name="Path 2152" d="M227.5,227.59l-.873-.713L225,225.094l.094-.094,1.783,1.623.713.873Z" transform="translate(-223.651 -223.651)" fill="#41479b"/>
+        <path id="Path_2153" data-name="Path 2153" d="M255.43,255.523l.713.873,1.783,1.623.094-.094-1.623-1.783-.873-.713Z" transform="translate(-251.585 -251.585)" fill="#41479b"/>
+        <path id="Path_2154" data-name="Path 2154" d="M255.43,227.5l.713-.873L257.926,225l.094.094-1.623,1.783-.873.713Z" transform="translate(-251.585 -223.651)" fill="#41479b"/>
+        <path id="Path_2155" data-name="Path 2155" d="M227.5,255.43l-.873.713L225,257.926l.094.094,1.783-1.623.713-.873Z" transform="translate(-223.651 -251.585)" fill="#41479b"/>
+        <path id="Path_2156" data-name="Path 2156" d="M219.245,255.376l-.993.534-2.269.817-.051-.122,2.182-1.026,1.079-.325Z" transform="translate(-215.328 -251.423)" fill="#41479b"/>
+        <path id="Path_2157" data-name="Path 2157" d="M255.742,240.259l1.079-.325L259,238.908l-.051-.122-2.269.817-.993.534Z" transform="translate(-251.824 -236.306)" fill="#41479b"/>
+        <path id="Path_2158" data-name="Path 2158" d="M240.137,219.245l-.534-.993-.817-2.269.122-.051,1.026,2.182.325,1.079Z" transform="translate(-236.306 -215.328)" fill="#41479b"/>
+        <path id="Path_2159" data-name="Path 2159" d="M255.254,255.742l.325,1.079L256.6,259l.122-.051-.817-2.269-.534-.993Z" transform="translate(-251.423 -251.824)" fill="#41479b"/>
+        <path id="Path_2160" data-name="Path 2160" d="M219.194,240.259l-1.079-.325-2.182-1.026.051-.122,2.269.817.993.534Z" transform="translate(-215.328 -236.306)" fill="#41479b"/>
+        <path id="Path_2161" data-name="Path 2161" d="M255.691,255.376l.993.534,2.269.817L259,256.6l-2.182-1.026-1.079-.325Z" transform="translate(-251.824 -251.423)" fill="#41479b"/>
+        <path id="Path_2162" data-name="Path 2162" d="M255.254,219.194l.325-1.079,1.026-2.182.122.051-.817,2.269-.534.993Z" transform="translate(-251.423 -215.328)" fill="#41479b"/>
+        <path id="Path_2163" data-name="Path 2163" d="M240.137,255.691l-.534.993-.817,2.269.122.051,1.026-2.182.325-1.079Z" transform="translate(-236.306 -251.824)" fill="#41479b"/>
+      </g>
+      <circle id="Ellipse_20" data-name="Ellipse 20" cx="0.595" cy="0.595" r="0.595" transform="translate(20.405 101.439)" fill="#f5f5f5"/>
+      <circle id="Ellipse_21" data-name="Ellipse 21" cx="0.357" cy="0.357" r="0.357" transform="translate(20.643 101.678)" fill="#41479b"/>
+    </g>
+    <text id="Facebook" transform="translate(1499 8378)" fill="#a4aec0" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Facebook</tspan></text>
+    <text id="Instagram" transform="translate(1499 8427)" fill="#a4aec0" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Instagram</tspan></text>
+    <text id="Twitter" transform="translate(1499 8472)" fill="#a4aec0" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Twitter</tspan></text>
+    <text id="Email" transform="translate(1499 8517)" fill="#a4aec0" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Email</tspan></text>
+    <text id="Linkdin" transform="translate(1499 8562)" fill="#a4aec0" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Linkdin</tspan></text>
+    <text id="Youtube" transform="translate(1499 8607)" fill="#a4aec0" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Youtube</tspan></text>
+    <text id="Social" transform="translate(1499 8321)" fill="#fff" font-size="30" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">Social</tspan></text>
+    <text id="_1_4444455555" data-name="+1 4444455555" transform="translate(209 8583)" fill="#a4aec0" font-size="25" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">+1 4444455555</tspan></text>
+    <g id="united-states-of-america" transform="translate(152 8474.669)">
+      <rect id="Rectangle_122" data-name="Rectangle 122" width="42" height="28" transform="translate(0 85.331)" fill="#f0f0f0"/>
+      <g id="Group_603" data-name="Group 603" transform="translate(0 88.831)">
+        <rect id="Rectangle_123" data-name="Rectangle 123" width="42" height="4" transform="translate(0 -0.5)" fill="#d80027"/>
+        <rect id="Rectangle_124" data-name="Rectangle 124" width="42" height="3" transform="translate(0 7.5)" fill="#d80027"/>
+        <rect id="Rectangle_125" data-name="Rectangle 125" width="42" height="4" transform="translate(0 13.5)" fill="#d80027"/>
+        <rect id="Rectangle_126" data-name="Rectangle 126" width="42" height="4" transform="translate(0 20.5)" fill="#d80027"/>
+      </g>
+      <rect id="Rectangle_127" data-name="Rectangle 127" width="21" height="15.077" transform="translate(0 85.331)" fill="#2e52b2"/>
+      <g id="Group_604" data-name="Group 604" transform="translate(2.133 87.752)">
+        <path id="Path_2164" data-name="Path 2164" d="M83.8,160.624l-.338,1.04H82.363l.885.643-.338,1.04.885-.643.885.643-.338-1.04.885-.643H84.133Z" transform="translate(-77.74 -156.869)" fill="#f0f0f0"/>
+        <path id="Path_2165" data-name="Path 2165" d="M84.133,207.437,83.8,206.4l-.338,1.04H82.363l.885.643-.338,1.04.885-.643.885.643-.338-1.04.885-.643Z" transform="translate(-77.74 -198.887)" fill="#f0f0f0"/>
+        <path id="Path_2166" data-name="Path 2166" d="M27.771,207.437l-.338-1.04-.338,1.04H26l.885.643-.338,1.04.885-.643.885.643-.338-1.04.885-.643Z" transform="translate(-26.001 -198.887)" fill="#f0f0f0"/>
+        <path id="Path_2167" data-name="Path 2167" d="M27.433,160.624l-.338,1.04H26l.885.643-.338,1.04.885-.643.885.643-.338-1.04.885-.643H27.771Z" transform="translate(-26.001 -156.869)" fill="#f0f0f0"/>
+        <path id="Path_2168" data-name="Path 2168" d="M83.8,114.85l-.338,1.041H82.363l.885.643-.338,1.04.885-.643.885.643-.338-1.04.885-.643H84.133Z" transform="translate(-77.74 -114.85)" fill="#f0f0f0"/>
+        <path id="Path_2169" data-name="Path 2169" d="M27.433,114.85l-.338,1.041H26l.885.643-.338,1.04.885-.643.885.643-.338-1.04.885-.643H27.771Z" transform="translate(-26.001 -114.85)" fill="#f0f0f0"/>
+        <path id="Path_2170" data-name="Path 2170" d="M140.157,160.624l-.338,1.04h-1.094l.885.643-.338,1.04.885-.643.885.643-.338-1.04.885-.643h-1.094Z" transform="translate(-129.478 -156.869)" fill="#f0f0f0"/>
+        <path id="Path_2171" data-name="Path 2171" d="M140.495,207.437l-.338-1.04-.338,1.04h-1.094l.885.643-.338,1.04.885-.643.885.643-.338-1.04.885-.643Z" transform="translate(-129.478 -198.887)" fill="#f0f0f0"/>
+        <path id="Path_2172" data-name="Path 2172" d="M196.858,207.437l-.338-1.04-.338,1.04h-1.094l.885.643-.338,1.04.885-.643.885.643-.338-1.04.885-.643Z" transform="translate(-181.218 -198.887)" fill="#f0f0f0"/>
+        <path id="Path_2173" data-name="Path 2173" d="M196.52,160.624l-.338,1.04h-1.094l.885.643-.338,1.04.885-.643.885.643-.338-1.04.885-.643h-1.094Z" transform="translate(-181.218 -156.869)" fill="#f0f0f0"/>
+        <path id="Path_2174" data-name="Path 2174" d="M140.157,114.85l-.338,1.041h-1.094l.885.643-.338,1.04.885-.643.885.643-.338-1.04.885-.643h-1.094Z" transform="translate(-129.478 -114.85)" fill="#f0f0f0"/>
+        <path id="Path_2175" data-name="Path 2175" d="M196.52,114.85l-.338,1.041h-1.094l.885.643-.338,1.04.885-.643.885.643-.338-1.04.885-.643h-1.094Z" transform="translate(-181.218 -114.85)" fill="#f0f0f0"/>
+      </g>
+    </g>
+    <text id="Copyright_2021_Dgnix_Developed_and_Maintained_by_DGNIX" data-name="Copyright 2021 Dgnix Developed and Maintained by DGNIX" transform="translate(656 8874)" fill="#6a7789" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Copyright 2021 Dgnix Developed and Maintained by DGNIX</tspan></text>
+    <g id="Group_1486" data-name="Group 1486" transform="translate(152 8289.579)">
+      <g id="Group_52" data-name="Group 52" transform="translate(0 0.957)">
+        <g id="Group_51" data-name="Group 51" clip-path="url(#clip-path)">
+          <rect id="Rectangle_17" data-name="Rectangle 17" width="27.131" height="40.055" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_54" data-name="Group 54">
+        <g id="Group_53" data-name="Group 53" clip-path="url(#clip-path-2)">
+          <text id="OSTSCALER" transform="translate(29.724 39.903)" fill="#fff" font-size="48" font-family="NasalizationRg-Regular, Nasalization"><tspan x="0" y="0">O</tspan><tspan y="0" letter-spacing="-0.028em">S</tspan><tspan y="0" letter-spacing="-0.006em">T</tspan><tspan y="0" letter-spacing="-0.003em">S</tspan><tspan y="0">C</tspan><tspan y="0" letter-spacing="-0.038em">A</tspan><tspan y="0">LER</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text id="_30_Days_money_back_guarantee" data-name="30 Days money back guarantee" transform="translate(595 7927)" fill="#fff" font-size="45" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">30 Days money back guarantee</tspan></text>
+    <text id="Lorem_Ipsum_is_simply_dummy_text_of_the_printing_industry._Lorem_Ipsum_has_been_the_industry_s_Unknow" data-name="Lorem Ipsum is simply dummy text of the printing industry. Lorem Ipsum has 
+been the industry&apos;s Unknow" transform="translate(960 7978)" fill="#fff" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="-396.43" y="0">Lorem Ipsum is simply dummy text of the printing industry. Lorem Ipsum has </tspan><tspan x="-143.11" y="35">been the industry&apos;s Unknow</tspan></text>
+    <rect id="Rectangle_185" data-name="Rectangle 185" width="225" height="53" rx="26.5" transform="translate(848 8039)" fill="#fff"/>
+    <text id="Get_now" data-name="Get now" transform="translate(908 8075)" fill="#4b20d1" font-size="25" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Get now</tspan></text>
+    <rect id="Rectangle_431" data-name="Rectangle 431" width="709" height="76" rx="5" transform="translate(502 375)" fill="#fff"/>
+    <rect id="Rectangle_433" data-name="Rectangle 433" width="131" height="40" rx="20" transform="translate(590 475)" fill="#daf5ea"/>
+    <text id="_.in" data-name=".in" transform="translate(656 503)" fill="#47b387" font-size="22" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-13.794" y="0">.in</tspan></text>
+    <rect id="Rectangle_434" data-name="Rectangle 434" width="131" height="40" rx="20" transform="translate(746 475)" fill="#dcdaf5"/>
+    <text id="_.Com" data-name=".Com" transform="translate(812 503)" fill="#4f47b3" font-size="22" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-29.26" y="0">.Com</tspan></text>
+    <rect id="Rectangle_435" data-name="Rectangle 435" width="131" height="40" rx="20" transform="translate(897 475)" fill="#f5dada"/>
+    <text id="_.Online" data-name=".Online" transform="translate(963 503)" fill="#b34747" font-size="22" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-40.755" y="0">.Online</tspan></text>
+    <rect id="Rectangle_436" data-name="Rectangle 436" width="131" height="40" rx="20" transform="translate(1048 475)" fill="#f5f1da"/>
+    <text id="_.info" data-name=".info" transform="translate(1114 503)" fill="#b3a347" font-size="22" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-25.179" y="0">.info</tspan></text>
+    <rect id="Rectangle_437" data-name="Rectangle 437" width="131" height="40" rx="20" transform="translate(1199 475)" fill="#dae8f5"/>
+    <text id="_.Store" data-name=".Store" transform="translate(1265 503)" fill="#5291cc" font-size="22" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-33.396" y="0">.Store</tspan></text>
+    <rect id="Rectangle_438" data-name="Rectangle 438" width="197" height="76" rx="5" transform="translate(1221 375)" fill="#4b20d1"/>
+    <text id="Search" transform="translate(1305.008 422)" fill="#fff" font-size="25" font-family="Montserrat" font-weight="600"><tspan x="-43.925" y="0">Search</tspan></text>
+    <g id="Icon_Search" transform="translate(1359.664 403.665)">
+      <circle id="Oval" cx="7.515" cy="7.515" r="7.515" transform="translate(0.343 0.343)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Shape" d="M5.283,5.283,0,0" transform="translate(13.045 13.045)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <text id="Ankit.in" transform="translate(577 422)" fill="#0e0b41" font-size="25" font-family="Montserrat" font-weight="600"><tspan x="-50.137" y="0">Ankit.in</tspan></text>
+    <g id="Group_1507" data-name="Group 1507" transform="translate(1532.482 335)">
+      <g id="Group_1506" data-name="Group 1506" clip-path="url(#clip-path-3)">
+        <path id="Path_7350" data-name="Path 7350" d="M387.517,152.322v79.339A154.822,154.822,0,0,0,232.7,386.482H153.355c0-129.323,104.837-234.16,234.162-234.16" fill="#fd6c5b" fill-rule="evenodd"/>
+        <path id="Path_7351" data-name="Path 7351" d="M95.611,386.482H0C15.626,180.191,181.079,15.091,387.516,0V94.578a315.954,315.954,0,0,0-291.9,291.9" fill="#a63ce2" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="1920" height="91" fill="none"/>
+    <text id="Domain" transform="translate(459.5 54.354)" fill="#fff" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Domain</tspan></text>
+    <text id="Hosting" transform="translate(576.5 54.354)" fill="#fff" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Hosting</tspan></text>
+    <text id="Cloud" transform="translate(692.5 54.354)" fill="#fff" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Cloud</tspan></text>
+    <text id="Offers" transform="translate(788.5 54.354)" fill="#fff" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Offers</tspan></text>
+    <text id="About_us-2" data-name="About us" transform="translate(886.5 54.354)" fill="#fff" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">About us</tspan></text>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="165" height="49" rx="4" transform="translate(1575.5 21)" fill="#ff3269"/>
+    <text id="Login" transform="translate(1629 52.743)" fill="#fff" font-size="20" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Login</tspan></text>
+    <g id="Group_55" data-name="Group 55" transform="translate(81.205 21.061)">
+      <g id="Group_52-2" data-name="Group 52" transform="translate(0 0.957)">
+        <g id="Group_51-2" data-name="Group 51" clip-path="url(#clip-path)">
+          <rect id="Rectangle_17-2" data-name="Rectangle 17" width="27.131" height="40.055" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_54-2" data-name="Group 54">
+        <g id="Group_53-2" data-name="Group 53" clip-path="url(#clip-path-2)">
+          <text id="OSTSCALER-2" data-name="OSTSCALER" transform="translate(29.724 39.903)" fill="#fff" font-size="48" font-family="NasalizationRg-Regular, Nasalization"><tspan x="0" y="0">O</tspan><tspan y="0" letter-spacing="-0.028em">S</tspan><tspan y="0" letter-spacing="-0.006em">T</tspan><tspan y="0" letter-spacing="-0.003em">S</tspan><tspan y="0">C</tspan><tspan y="0" letter-spacing="-0.038em">A</tspan><tspan y="0">LER</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="left-8" data-name="left" transform="translate(544.845 50.303) rotate(-90)">
+      <path id="Path_7276-9" data-name="Path 7276" d="M4.8.082C4.574.2.133,4.635.049,4.83a.968.968,0,0,0,0,.611c.076.177,4.594,4.7,4.8,4.8a.789.789,0,0,0,.323.069.729.729,0,0,0,.66-1.042A24.236,24.236,0,0,0,3.772,7.122L1.786,5.135,3.755,3.163A23.577,23.577,0,0,0,5.793,1.037.726.726,0,0,0,4.8.082Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+    <g id="left-9" data-name="left" transform="translate(662.845 50.303) rotate(-90)">
+      <path id="Path_7276-10" data-name="Path 7276" d="M4.8.082C4.574.2.133,4.635.049,4.83a.968.968,0,0,0,0,.611c.076.177,4.594,4.7,4.8,4.8a.789.789,0,0,0,.323.069.729.729,0,0,0,.66-1.042A24.236,24.236,0,0,0,3.772,7.122L1.786,5.135,3.755,3.163A23.577,23.577,0,0,0,5.793,1.037.726.726,0,0,0,4.8.082Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+    <g id="Rectangle_517" data-name="Rectangle 517" transform="translate(451 1547)" fill="#fff" stroke="#4b20d1" stroke-width="2">
+      <rect width="313" height="422" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="311" height="420" rx="9" fill="none"/>
+    </g>
+    <text id="_.IN_is_India_s_top-level_domain_on_the_Internet._Unlike_other_domains_.IN_is_a_unique_symbol_of_India_and_its_role_in_the_world.-4" data-name=".IN is India’s top-level domain 
+on the Internet. Unlike other 
+domains, .IN is a unique symbol 
+of India and its role in the world." transform="translate(468 1686.554)" font-size="15.5" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">.IN is India’s top-level domain </tspan><tspan x="0" y="25">on the Internet. Unlike other </tspan><tspan x="0" y="50">domains, .IN is a unique symbol </tspan><tspan x="0" y="75">of India and its role in the world.</tspan></text>
+    <rect id="Rectangle_518" data-name="Rectangle 518" width="85" height="78" rx="10" transform="translate(468 1575)" fill="#f2f3ff"/>
+    <rect id="_1200px-.net_logo.svg-4" data-name="1200px-.net_logo.svg" width="68" height="27" transform="translate(477 1601)" fill="url(#pattern)"/>
+    <text id="_179_yr-4" data-name="₹179/yr" transform="translate(468 1840)" fill="#0e0b41" font-size="40" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">₹179/yr</tspan></text>
+    <rect id="Rectangle_519" data-name="Rectangle 519" width="204" height="59" rx="7" transform="translate(506 1885)" fill="#27203d"/>
+    <text id="Choose_Plan-4" data-name="Choose Plan" transform="translate(545 1922)" fill="#fff" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Choose Plan</tspan></text>
+    <text id="_4999-4" data-name="₹4999" transform="translate(468 1802.5)" fill="#bfc1c0" font-size="17" font-family="Montserrat" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">₹4999</tspan></text>
+    <path id="Path_7388" data-name="Path 7388" d="M17014.949,1863.08h57.066" transform="translate(-16544 -65.5)" fill="none" stroke="#bfc1c0" stroke-width="1"/>
+    <g id="Rectangle_520" data-name="Rectangle 520" transform="translate(804 1547)" fill="#fff" stroke="#4b20d1" stroke-width="2">
+      <rect width="313" height="422" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="311" height="420" rx="9" fill="none"/>
+    </g>
+    <text id="_.IN_is_India_s_top-level_domain_on_the_Internet._Unlike_other_domains_.IN_is_a_unique_symbol_of_India_and_its_role_in_the_world.-5" data-name=".IN is India’s top-level domain 
+on the Internet. Unlike other 
+domains, .IN is a unique symbol 
+of India and its role in the world." transform="translate(821 1686.554)" font-size="15.5" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">.IN is India’s top-level domain </tspan><tspan x="0" y="25">on the Internet. Unlike other </tspan><tspan x="0" y="50">domains, .IN is a unique symbol </tspan><tspan x="0" y="75">of India and its role in the world.</tspan></text>
+    <rect id="Rectangle_521" data-name="Rectangle 521" width="85" height="78" rx="10" transform="translate(821 1575)" fill="#f2f3ff"/>
+    <rect id="_1200px-.net_logo.svg-5" data-name="1200px-.net_logo.svg" width="68" height="27" transform="translate(830 1601)" fill="url(#pattern)"/>
+    <text id="_179_yr-5" data-name="₹179/yr" transform="translate(821 1840)" fill="#0e0b41" font-size="40" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">₹179/yr</tspan></text>
+    <rect id="Rectangle_522" data-name="Rectangle 522" width="204" height="59" rx="7" transform="translate(859 1885)" fill="#27203d"/>
+    <text id="Choose_Plan-5" data-name="Choose Plan" transform="translate(898 1922)" fill="#fff" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Choose Plan</tspan></text>
+    <text id="_4999-5" data-name="₹4999" transform="translate(821 1802.5)" fill="#bfc1c0" font-size="17" font-family="Montserrat" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">₹4999</tspan></text>
+    <path id="Path_7389" data-name="Path 7389" d="M17014.949,1863.08h57.066" transform="translate(-16191 -65.5)" fill="none" stroke="#bfc1c0" stroke-width="1"/>
+    <g id="Rectangle_523" data-name="Rectangle 523" transform="translate(1157 1547)" fill="#fff" stroke="#4b20d1" stroke-width="2">
+      <rect width="313" height="422" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="311" height="420" rx="9" fill="none"/>
+    </g>
+    <text id="_.IN_is_India_s_top-level_domain_on_the_Internet._Unlike_other_domains_.IN_is_a_unique_symbol_of_India_and_its_role_in_the_world.-6" data-name=".IN is India’s top-level domain 
+on the Internet. Unlike other 
+domains, .IN is a unique symbol 
+of India and its role in the world." transform="translate(1174 1686.554)" font-size="15.5" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">.IN is India’s top-level domain </tspan><tspan x="0" y="25">on the Internet. Unlike other </tspan><tspan x="0" y="50">domains, .IN is a unique symbol </tspan><tspan x="0" y="75">of India and its role in the world.</tspan></text>
+    <rect id="Rectangle_524" data-name="Rectangle 524" width="85" height="78" rx="10" transform="translate(1174 1575)" fill="#f2f3ff"/>
+    <rect id="_1200px-.net_logo.svg-6" data-name="1200px-.net_logo.svg" width="68" height="27" transform="translate(1183 1601)" fill="url(#pattern)"/>
+    <text id="_179_yr-6" data-name="₹179/yr" transform="translate(1174 1840)" fill="#0e0b41" font-size="40" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">₹179/yr</tspan></text>
+    <rect id="Rectangle_525" data-name="Rectangle 525" width="204" height="59" rx="7" transform="translate(1212 1885)" fill="#27203d"/>
+    <text id="Choose_Plan-6" data-name="Choose Plan" transform="translate(1251 1922)" fill="#fff" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Choose Plan</tspan></text>
+    <text id="_4999-6" data-name="₹4999" transform="translate(1174 1802.5)" fill="#bfc1c0" font-size="17" font-family="Montserrat" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">₹4999</tspan></text>
+    <path id="Path_7390" data-name="Path 7390" d="M17014.949,1863.08h57.066" transform="translate(-15838 -65.5)" fill="none" stroke="#bfc1c0" stroke-width="1"/>
+    <g id="Rectangle_526" data-name="Rectangle 526" transform="translate(451 2019)" fill="#fff" stroke="#4b20d1" stroke-width="2">
+      <rect width="313" height="422" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="311" height="420" rx="9" fill="none"/>
+    </g>
+    <text id="_.IN_is_India_s_top-level_domain_on_the_Internet._Unlike_other_domains_.IN_is_a_unique_symbol_of_India_and_its_role_in_the_world.-7" data-name=".IN is India’s top-level domain 
+on the Internet. Unlike other 
+domains, .IN is a unique symbol 
+of India and its role in the world." transform="translate(468 2158.554)" font-size="15.5" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">.IN is India’s top-level domain </tspan><tspan x="0" y="25">on the Internet. Unlike other </tspan><tspan x="0" y="50">domains, .IN is a unique symbol </tspan><tspan x="0" y="75">of India and its role in the world.</tspan></text>
+    <rect id="Rectangle_527" data-name="Rectangle 527" width="85" height="78" rx="10" transform="translate(468 2047)" fill="#f2f3ff"/>
+    <rect id="_1200px-.net_logo.svg-7" data-name="1200px-.net_logo.svg" width="68" height="27" transform="translate(477 2073)" fill="url(#pattern)"/>
+    <text id="_179_yr-7" data-name="₹179/yr" transform="translate(468 2312)" fill="#0e0b41" font-size="40" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">₹179/yr</tspan></text>
+    <rect id="Rectangle_528" data-name="Rectangle 528" width="204" height="59" rx="7" transform="translate(506 2357)" fill="#27203d"/>
+    <text id="Choose_Plan-7" data-name="Choose Plan" transform="translate(545 2394)" fill="#fff" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Choose Plan</tspan></text>
+    <text id="_4999-7" data-name="₹4999" transform="translate(468 2274.5)" fill="#bfc1c0" font-size="17" font-family="Montserrat" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">₹4999</tspan></text>
+    <path id="Path_7391" data-name="Path 7391" d="M17014.949,1863.08h57.066" transform="translate(-16544 406.5)" fill="none" stroke="#bfc1c0" stroke-width="1"/>
+    <g id="Rectangle_529" data-name="Rectangle 529" transform="translate(804 2019)" fill="#fff" stroke="#4b20d1" stroke-width="2">
+      <rect width="313" height="422" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="311" height="420" rx="9" fill="none"/>
+    </g>
+    <text id="_.IN_is_India_s_top-level_domain_on_the_Internet._Unlike_other_domains_.IN_is_a_unique_symbol_of_India_and_its_role_in_the_world.-8" data-name=".IN is India’s top-level domain 
+on the Internet. Unlike other 
+domains, .IN is a unique symbol 
+of India and its role in the world." transform="translate(821 2158.554)" font-size="15.5" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">.IN is India’s top-level domain </tspan><tspan x="0" y="25">on the Internet. Unlike other </tspan><tspan x="0" y="50">domains, .IN is a unique symbol </tspan><tspan x="0" y="75">of India and its role in the world.</tspan></text>
+    <rect id="Rectangle_530" data-name="Rectangle 530" width="85" height="78" rx="10" transform="translate(821 2047)" fill="#f2f3ff"/>
+    <rect id="_1200px-.net_logo.svg-8" data-name="1200px-.net_logo.svg" width="68" height="27" transform="translate(830 2073)" fill="url(#pattern)"/>
+    <text id="_179_yr-8" data-name="₹179/yr" transform="translate(821 2312)" fill="#0e0b41" font-size="40" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">₹179/yr</tspan></text>
+    <rect id="Rectangle_531" data-name="Rectangle 531" width="204" height="59" rx="7" transform="translate(859 2357)" fill="#27203d"/>
+    <text id="Choose_Plan-8" data-name="Choose Plan" transform="translate(898 2394)" fill="#fff" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Choose Plan</tspan></text>
+    <text id="_4999-8" data-name="₹4999" transform="translate(821 2274.5)" fill="#bfc1c0" font-size="17" font-family="Montserrat" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">₹4999</tspan></text>
+    <path id="Path_7392" data-name="Path 7392" d="M17014.949,1863.08h57.066" transform="translate(-16191 406.5)" fill="none" stroke="#bfc1c0" stroke-width="1"/>
+    <g id="Rectangle_532" data-name="Rectangle 532" transform="translate(1157 2019)" fill="#fff" stroke="#4b20d1" stroke-width="2">
+      <rect width="313" height="422" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="311" height="420" rx="9" fill="none"/>
+    </g>
+    <text id="_.IN_is_India_s_top-level_domain_on_the_Internet._Unlike_other_domains_.IN_is_a_unique_symbol_of_India_and_its_role_in_the_world.-9" data-name=".IN is India’s top-level domain 
+on the Internet. Unlike other 
+domains, .IN is a unique symbol 
+of India and its role in the world." transform="translate(1174 2158.554)" font-size="15.5" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">.IN is India’s top-level domain </tspan><tspan x="0" y="25">on the Internet. Unlike other </tspan><tspan x="0" y="50">domains, .IN is a unique symbol </tspan><tspan x="0" y="75">of India and its role in the world.</tspan></text>
+    <rect id="Rectangle_533" data-name="Rectangle 533" width="85" height="78" rx="10" transform="translate(1174 2047)" fill="#f2f3ff"/>
+    <rect id="_1200px-.net_logo.svg-9" data-name="1200px-.net_logo.svg" width="68" height="27" transform="translate(1183 2073)" fill="url(#pattern)"/>
+    <text id="_179_yr-9" data-name="₹179/yr" transform="translate(1174 2312)" fill="#0e0b41" font-size="40" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">₹179/yr</tspan></text>
+    <rect id="Rectangle_534" data-name="Rectangle 534" width="204" height="59" rx="7" transform="translate(1212 2357)" fill="#27203d"/>
+    <text id="Choose_Plan-9" data-name="Choose Plan" transform="translate(1251 2394)" fill="#fff" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Choose Plan</tspan></text>
+    <text id="_4999-9" data-name="₹4999" transform="translate(1174 2274.5)" fill="#bfc1c0" font-size="17" font-family="Montserrat" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">₹4999</tspan></text>
+    <path id="Path_7393" data-name="Path 7393" d="M17014.949,1863.08h57.066" transform="translate(-15838 406.5)" fill="none" stroke="#bfc1c0" stroke-width="1"/>
+    <g id="Rectangle_535" data-name="Rectangle 535" transform="translate(451 2491)" fill="#fff" stroke="#4b20d1" stroke-width="2">
+      <rect width="313" height="422" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="311" height="420" rx="9" fill="none"/>
+    </g>
+    <text id="_.IN_is_India_s_top-level_domain_on_the_Internet._Unlike_other_domains_.IN_is_a_unique_symbol_of_India_and_its_role_in_the_world.-10" data-name=".IN is India’s top-level domain 
+on the Internet. Unlike other 
+domains, .IN is a unique symbol 
+of India and its role in the world." transform="translate(468 2630.554)" font-size="15.5" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">.IN is India’s top-level domain </tspan><tspan x="0" y="25">on the Internet. Unlike other </tspan><tspan x="0" y="50">domains, .IN is a unique symbol </tspan><tspan x="0" y="75">of India and its role in the world.</tspan></text>
+    <rect id="Rectangle_536" data-name="Rectangle 536" width="85" height="78" rx="10" transform="translate(468 2519)" fill="#f2f3ff"/>
+    <rect id="_1200px-.net_logo.svg-10" data-name="1200px-.net_logo.svg" width="68" height="27" transform="translate(477 2545)" fill="url(#pattern)"/>
+    <text id="_179_yr-10" data-name="₹179/yr" transform="translate(468 2784)" fill="#0e0b41" font-size="40" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">₹179/yr</tspan></text>
+    <rect id="Rectangle_537" data-name="Rectangle 537" width="204" height="59" rx="7" transform="translate(506 2829)" fill="#27203d"/>
+    <text id="Choose_Plan-10" data-name="Choose Plan" transform="translate(545 2866)" fill="#fff" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Choose Plan</tspan></text>
+    <text id="_4999-10" data-name="₹4999" transform="translate(468 2746.5)" fill="#bfc1c0" font-size="17" font-family="Montserrat" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">₹4999</tspan></text>
+    <path id="Path_7394" data-name="Path 7394" d="M17014.949,1863.08h57.066" transform="translate(-16544 878.5)" fill="none" stroke="#bfc1c0" stroke-width="1"/>
+    <g id="Rectangle_538" data-name="Rectangle 538" transform="translate(804 2491)" fill="#fff" stroke="#4b20d1" stroke-width="2">
+      <rect width="313" height="422" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="311" height="420" rx="9" fill="none"/>
+    </g>
+    <text id="_.IN_is_India_s_top-level_domain_on_the_Internet._Unlike_other_domains_.IN_is_a_unique_symbol_of_India_and_its_role_in_the_world.-11" data-name=".IN is India’s top-level domain 
+on the Internet. Unlike other 
+domains, .IN is a unique symbol 
+of India and its role in the world." transform="translate(821 2630.554)" font-size="15.5" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">.IN is India’s top-level domain </tspan><tspan x="0" y="25">on the Internet. Unlike other </tspan><tspan x="0" y="50">domains, .IN is a unique symbol </tspan><tspan x="0" y="75">of India and its role in the world.</tspan></text>
+    <rect id="Rectangle_539" data-name="Rectangle 539" width="85" height="78" rx="10" transform="translate(821 2519)" fill="#f2f3ff"/>
+    <rect id="_1200px-.net_logo.svg-11" data-name="1200px-.net_logo.svg" width="68" height="27" transform="translate(830 2545)" fill="url(#pattern)"/>
+    <text id="_179_yr-11" data-name="₹179/yr" transform="translate(821 2784)" fill="#0e0b41" font-size="40" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">₹179/yr</tspan></text>
+    <rect id="Rectangle_540" data-name="Rectangle 540" width="204" height="59" rx="7" transform="translate(859 2829)" fill="#27203d"/>
+    <text id="Choose_Plan-11" data-name="Choose Plan" transform="translate(898 2866)" fill="#fff" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Choose Plan</tspan></text>
+    <text id="_4999-11" data-name="₹4999" transform="translate(821 2746.5)" fill="#bfc1c0" font-size="17" font-family="Montserrat" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">₹4999</tspan></text>
+    <path id="Path_7395" data-name="Path 7395" d="M17014.949,1863.08h57.066" transform="translate(-16191 878.5)" fill="none" stroke="#bfc1c0" stroke-width="1"/>
+    <g id="Rectangle_541" data-name="Rectangle 541" transform="translate(1157 2491)" fill="#fff" stroke="#4b20d1" stroke-width="2">
+      <rect width="313" height="422" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="311" height="420" rx="9" fill="none"/>
+    </g>
+    <text id="_.IN_is_India_s_top-level_domain_on_the_Internet._Unlike_other_domains_.IN_is_a_unique_symbol_of_India_and_its_role_in_the_world.-12" data-name=".IN is India’s top-level domain 
+on the Internet. Unlike other 
+domains, .IN is a unique symbol 
+of India and its role in the world." transform="translate(1174 2630.554)" font-size="15.5" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">.IN is India’s top-level domain </tspan><tspan x="0" y="25">on the Internet. Unlike other </tspan><tspan x="0" y="50">domains, .IN is a unique symbol </tspan><tspan x="0" y="75">of India and its role in the world.</tspan></text>
+    <rect id="Rectangle_542" data-name="Rectangle 542" width="85" height="78" rx="10" transform="translate(1174 2519)" fill="#f2f3ff"/>
+    <rect id="_1200px-.net_logo.svg-12" data-name="1200px-.net_logo.svg" width="68" height="27" transform="translate(1183 2545)" fill="url(#pattern)"/>
+    <text id="_179_yr-12" data-name="₹179/yr" transform="translate(1174 2784)" fill="#0e0b41" font-size="40" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">₹179/yr</tspan></text>
+    <rect id="Rectangle_543" data-name="Rectangle 543" width="204" height="59" rx="7" transform="translate(1212 2829)" fill="#27203d"/>
+    <text id="Choose_Plan-12" data-name="Choose Plan" transform="translate(1251 2866)" fill="#fff" font-size="20" font-family="Montserrat" font-weight="500"><tspan x="0" y="0">Choose Plan</tspan></text>
+    <text id="_4999-12" data-name="₹4999" transform="translate(1174 2746.5)" fill="#bfc1c0" font-size="17" font-family="Montserrat" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">₹4999</tspan></text>
+    <path id="Path_7396" data-name="Path 7396" d="M17014.949,1863.08h57.066" transform="translate(-15838 878.5)" fill="none" stroke="#bfc1c0" stroke-width="1"/>
+    <text id="Compare_All_Cloud_Hosting-2" data-name="Compare All Cloud Hosting" transform="translate(960 1485)" fill="#1a094e" font-size="55" font-family="Montserrat" font-weight="600"><tspan x="-384.175" y="0">Compare All Cloud Hosting</tspan></text>
+    <text id="Already_Have_a_Domain_Name_Now_is_the_Time_to_Transfer_It_to" data-name="Already Have a Domain 
+Name? Now is the 
+Time to Transfer It to" transform="translate(281 3615)" fill="#0e0b41" font-size="65" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">Already Have a Domain </tspan><tspan x="0" y="90">Name? Now is the </tspan><tspan x="0" y="180">Time to Transfer It to</tspan></text>
+    <text id="A_versatile_web-based_control_panel_that_makes_your_website_management_easier_with_the_help_of_a_user-friendly_Graphic_User_Interface_GUI_._Using_the_Plesk_control_panel_you_can_easily_manage_your_Windows_hosting_account._Our_windows_hosting_plan_compri" data-name="A versatile web-based control panel that makes your website management
+easier with the help of a user-friendly Graphic User Interface (GUI). Using the 
+Plesk control panel you can easily manage your Windows hosting account. Our 
+windows hosting plan compri" transform="translate(281 3855)" font-size="20" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">A versatile web-based control panel that makes your website management</tspan><tspan x="0" y="35">easier with the help of a user-friendly Graphic User Interface (GUI). Using the </tspan><tspan x="0" y="70">Plesk control panel you can easily manage your Windows hosting account. Our </tspan><tspan x="0" y="105">windows hosting plan comprises of Plesk panel that lets you access the below </tspan><tspan x="0" y="140">features:</tspan></text>
+    <g id="Rectangle_216" data-name="Rectangle 216" transform="translate(1177 3494)" fill="none" stroke="#4b20d1" stroke-width="2">
+      <rect width="462" height="466" rx="18" stroke="none"/>
+      <rect x="1" y="1" width="460" height="464" rx="17" fill="none"/>
+    </g>
+    <g id="Ellipse_92" data-name="Ellipse 92" transform="translate(1200 3502)" fill="none" stroke="#4b20d1" stroke-width="2">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7" fill="none"/>
+    </g>
+    <g id="Ellipse_93" data-name="Ellipse 93" transform="translate(1229 3502)" fill="none" stroke="#4b20d1" stroke-width="2">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7" fill="none"/>
+    </g>
+    <g id="Ellipse_94" data-name="Ellipse 94" transform="translate(1258 3502)" fill="none" stroke="#4b20d1" stroke-width="2">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7" fill="none"/>
+    </g>
+    <g id="Ellipse_95" data-name="Ellipse 95" transform="translate(1302 3621)" fill="none" stroke="#4b20d1" stroke-width="2">
+      <circle cx="106" cy="106" r="106" stroke="none"/>
+      <circle cx="106" cy="106" r="105" fill="none"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_219)">
+      <rect id="Rectangle_219-2" data-name="Rectangle 219" width="283" height="52" rx="2" transform="translate(1258 3542)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_220" data-name="Rectangle 220" width="195" height="8" rx="4" transform="translate(1287 3564)" fill="#4b20d1"/>
+    <rect id="Rectangle_221" data-name="Rectangle 221" width="135" height="8" rx="4" transform="translate(1287 3564)" fill="#ff3269"/>
+    <circle id="Ellipse_96" data-name="Ellipse 96" cx="4" cy="4" r="4" transform="translate(1414 3564)" fill="#fff"/>
+    <text id="_1000" data-name="1000" transform="translate(1487 3572)" font-size="10" font-family="Montserrat" font-weight="600" letter-spacing="0.025em"><tspan x="0" y="0">1000</tspan></text>
+    <use id="Rectangle_217" data-name="Rectangle 217" transform="translate(1250 3596)" xlink:href="#image-2"/>
+    <text id="Powerful_and_Intuitive_Control_Panel-_Plesk" data-name="Powerful and Intuitive 
+Control Panel- Plesk" transform="translate(818 4441)" fill="#0e0b41" font-size="65" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">Powerful and Intuitive </tspan><tspan x="0" y="90">Control Panel- Plesk</tspan></text>
+    <text id="A_versatile_web-based_control_panel_that_makes_your_website_management_easier_with_the_help_of_a_user-friendly_Graphic_User_Interface_GUI_._Using_the_Plesk_control_panel_you_can_easily_manage_your_Windows_hosting_account._Our_windows_hosting_plan_compri-2" data-name="A versatile web-based control panel that makes your website management
+easier with the help of a user-friendly Graphic User Interface (GUI). Using the 
+Plesk control panel you can easily manage your Windows hosting account. Our 
+windows hosting plan compri" transform="translate(818 4591)" font-size="20" font-family="Montserrat" font-weight="600"><tspan x="0" y="0">A versatile web-based control panel that makes your website management</tspan><tspan x="0" y="35">easier with the help of a user-friendly Graphic User Interface (GUI). Using the </tspan><tspan x="0" y="70">Plesk control panel you can easily manage your Windows hosting account. Our </tspan><tspan x="0" y="105">windows hosting plan comprises of Plesk panel that lets you access the below </tspan><tspan x="0" y="140">features:</tspan></text>
+    <use id="Rectangle_223" data-name="Rectangle 223" transform="translate(818 4769)" xlink:href="#image"/>
+    <text id="Free_Domain" data-name="Free Domain" transform="translate(841 4782)" fill="#0e0b41" font-size="16" font-family="Montserrat" font-weight="600" letter-spacing="0.025em"><tspan x="0" y="0">Free Domain</tspan></text>
+    <use id="Rectangle_223-2" data-name="Rectangle 223" transform="translate(967 4769)" xlink:href="#image"/>
+    <text id="Free_SSL" data-name="Free SSL" transform="translate(990 4782)" fill="#0e0b41" font-size="16" font-family="Montserrat" font-weight="600" letter-spacing="0.025em"><tspan x="0" y="0">Free SSL</tspan></text>
+    <use id="Rectangle_223-3" data-name="Rectangle 223" transform="translate(1078 4769)" xlink:href="#image"/>
+    <text id="Free_SSL-2" data-name="Free SSL" transform="translate(1101 4782)" fill="#0e0b41" font-size="16" font-family="Montserrat" font-weight="600" letter-spacing="0.025em"><tspan x="0" y="0">Free SSL</tspan></text>
+    <g id="Rectangle_224" data-name="Rectangle 224" transform="translate(281 4320)" fill="none" stroke="#4b20d1" stroke-width="2">
+      <rect width="462" height="466" rx="18" stroke="none"/>
+      <rect x="1" y="1" width="460" height="464" rx="17" fill="none"/>
+    </g>
+    <g id="Ellipse_97" data-name="Ellipse 97" transform="translate(304 4328)" fill="none" stroke="#4b20d1" stroke-width="2">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7" fill="none"/>
+    </g>
+    <g id="Ellipse_98" data-name="Ellipse 98" transform="translate(333 4328)" fill="none" stroke="#4b20d1" stroke-width="2">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7" fill="none"/>
+    </g>
+    <g id="Ellipse_99" data-name="Ellipse 99" transform="translate(362 4328)" fill="none" stroke="#4b20d1" stroke-width="2">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7" fill="none"/>
+    </g>
+    <g id="Ellipse_100" data-name="Ellipse 100" transform="translate(406 4447)" fill="none" stroke="#4b20d1" stroke-width="2">
+      <circle cx="106" cy="106" r="106" stroke="none"/>
+      <circle cx="106" cy="106" r="105" fill="none"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_225)">
+      <rect id="Rectangle_225-2" data-name="Rectangle 225" width="283" height="52" rx="2" transform="translate(362 4368)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_226" data-name="Rectangle 226" width="195" height="8" rx="4" transform="translate(391 4390)" fill="#4b20d1"/>
+    <rect id="Rectangle_227" data-name="Rectangle 227" width="135" height="8" rx="4" transform="translate(391 4390)" fill="#ff3269"/>
+    <circle id="Ellipse_101" data-name="Ellipse 101" cx="4" cy="4" r="4" transform="translate(518 4390)" fill="#fff"/>
+    <text id="_1000-2" data-name="1000" transform="translate(591 4398)" font-size="10" font-family="Montserrat" font-weight="600" letter-spacing="0.025em"><tspan x="0" y="0">1000</tspan></text>
+    <use id="Rectangle_217-2" data-name="Rectangle 217" transform="translate(354 4422)" xlink:href="#image-2"/>
+    <rect id="Rectangle_214" data-name="Rectangle 214" width="1920" height="407" transform="translate(0 2976)" fill="#08192b"/>
+    <text id="Smart_ideas_For_Your_Brand_Are_Here." data-name="Smart ideas
+For Your Brand
+Are Here." transform="translate(214 3100)" fill="#fff" font-size="55" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Smart ideas</tspan><tspan x="0" y="65">For Your Brand</tspan><tspan x="0" y="130">Are Here.</tspan></text>
+    <rect id="Rectangle_215" data-name="Rectangle 215" width="225" height="53" rx="4" transform="translate(214 3259)" fill="#ff3269"/>
+    <text id="Get_now-2" data-name="Get now" transform="translate(274 3295)" fill="#fff" font-size="25" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Get now</tspan></text>
+    <g id="Ellipse_89" data-name="Ellipse 89" transform="translate(1294 3031)" fill="none" stroke="#ff3269" stroke-width="2">
+      <circle cx="149" cy="149" r="149" stroke="none"/>
+      <circle cx="149" cy="149" r="148" fill="none"/>
+    </g>
+    <g id="Ellipse_90" data-name="Ellipse 90" transform="translate(1364 3101)" fill="none" stroke="#ff3269" stroke-width="2">
+      <circle cx="79" cy="79" r="79" stroke="none"/>
+      <circle cx="79" cy="79" r="78" fill="none"/>
+    </g>
+    <g id="Ellipse_91" data-name="Ellipse 91" transform="translate(1336 3073)" fill="none" stroke="#ff3269" stroke-width="2">
+      <circle cx="107" cy="107" r="107" stroke="none"/>
+      <circle cx="107" cy="107" r="106" fill="none"/>
+    </g>
+    <rect id="Rectangle_187" data-name="Rectangle 187" width="494" height="392" transform="translate(1196 2984)" fill="url(#pattern-13)"/>
+  </g>
+</svg>
